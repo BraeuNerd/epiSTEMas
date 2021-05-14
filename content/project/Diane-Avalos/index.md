@@ -17,4 +17,4 @@ url_code: ""
 
 Diane es Bioquímica y Microbióloga (BSc) guatemalteca, a punto de empezar una MSc en Biología Aplicada en Corea del Sur. Trabajar con hongos y bacterias la hace tan feliz, y quiere contribuir al desarrollo sostenible de la agricultura en Guatemala a través del control biológico.
 
-¡[Escucha su episodio aquí](https://open.spotify.com/episode/18uizt7Hj8gaXzrYjpkgaw?si=c2b201b34c8d4683) para conocerla un poco más!
+¡[Escucha su episodio aquí](https://epistemas.netlify.app/post/e1dianeavalos/) para conocerla un poco más!

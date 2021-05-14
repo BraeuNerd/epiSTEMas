@@ -26,4 +26,4 @@ Guiada por la curiosidad y  ..  ...abriendo puertas.
 Kat es Bioquímica y Microbióloga (BSc *in fieri*), co-fundadora de la Asociación Guatemalteca de Ingeniería y Ciencias Espaciales.
 
 
-¡[Escucha su episodio aquí](https://open.spotify.com/episode/0NymbEbz7NvFyjWWLk5HXE?si=30cc38118707481c) para conocerla un poco más! 
+¡[Escucha su episodio aquí](https://epistemas.netlify.app/post/e2katherrera/) para conocerla un poco más! 
