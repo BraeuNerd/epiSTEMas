@@ -22,8 +22,7 @@ tags:
 title: Katherinne Herrera
 ---
 
-Guiada por la curiosidad y  ..  ...abriendo puertas.
-Kat es Bioquímica y Microbióloga (BSc *in fieri*), co-fundadora de la Asociación Guatemalteca de Ingeniería y Ciencias Espaciales.
+Guiada por la curiosidad y determinada a siempre ver la vida a través de los ojos de una niña, Kat vive haciendo preguntas de todo lo que le rodea y buscando la manera de responderlas y satisfacer su curiosidad. Kat es Bioquímica y Microbióloga (BSc *in fieri*) guatemalteca, co-fundadora de la Asociación Guatemalteca de Ingeniería y Ciencias Espaciales, y con una particular fascinación por las arañas.
 
 
 ¡[Escucha su episodio aquí](https://epistemas.netlify.app/post/e2katherrera/) para conocerla un poco más! 
