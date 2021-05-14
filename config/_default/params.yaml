@@ -5,55 +5,56 @@
 
 # Appearance
 
-theme: epistemascol
+theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
-site_type: Person
+site_type: Project
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: '@epiSTEMas_Pod'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+email: epiSTEMasPod@gmail.com
+# phone: 888 888 88 88
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: Guatemala
+#  country_code: US
+# coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
 contact_links:
+  - icon: spotify
+    icon_pack: fab
+    name: Escúchanos y síguenos en Spotify
+    link: 'https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Contáctanos por Twitter
+    link: 'https://twitter.com/epiSTEMas_Pod'
+  - icon: instagram
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: Contáctanos por Instagram
+    link: 'https://www.instagram.com/epistemas/'
+  - icon: facebook-square
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Contáctanos por Facebook
+    link: 'https://www.facebook.com/epiSTEMasPod'
+
 
 # Site header
 
@@ -61,7 +62,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true

@@ -5,13 +5,13 @@ name = "epistemascol"
 light = false
 
 # Primary
-primary = "#040A18"
+primary = "#34495e"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#8D5737"
-menu_text_active = "#FFE83F"
-menu_title = "#6BCAE2"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
