@@ -8,7 +8,7 @@ links:
   url: https://www.instagram.com/dianeavalos/
 summary: " 'Trabajar con hongos y bacterias me hace feliz' "
 tags:
-- Bioquímica y Microbióloga
+- Bioquímica y Microbiología
 - Control biológico
 - Comunicación
 title: Diane  Avalos

@@ -27,10 +27,14 @@ projects: []
 
 La Bioquímica & Microbióloga guatemalteca Diane Avalos nos cuenta en este episodio valiosas lecciones de vida que la han llevado a donde está hoy: aprendiendo coreano en Corea del Sur en donde está a punto de iniciar una Maestría en control biológico. ¿Cómo llegó a esta decisión? ¿Qué es esto del control biológico y por qué es importante para la agricultura? ¿Qué dificultades y lecciones se ha encontrado en el camino? ¡En este primer episodio Diane nos comparte todo esto y más lecciones que nos pueden ayudar en nuestro día a día!
 
-Puedes seguir a Diane en: https://www.instagram.com/dianeavalos/
+<iframe src="https://open.spotify.com/embed-podcast/episode/18uizt7Hj8gaXzrYjpkgaw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Sigue a epiSTEMas en: 
+Sigue a Diane en [Instagram](https://www.instagram.com/dianeavalos/)
 
-Instagram: https://www.instagram.com/epistemas/  
-Facebook: https://www.facebook.com/epiSTEMasPod  y 
-Twitter: https://twitter.com/epiSTEMas_Pod
+Recuerda seguir a epiSTEMas en:
+
+[Instagram](https://www.instagram.com/epistemas/)
+
+[Facebook](https://www.facebook.com/epiSTEMasPod)  
+
+[Twitter](https://twitter.com/epiSTEMas_Pod)
