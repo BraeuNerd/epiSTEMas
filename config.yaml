@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: epiSTEMas Podcast # Website name
-baseurl: '' # Website URL
+baseurl: 'https://epistemas.netlify.app/' # Website URL
 copyright: '© 2021 epiSTEMas' # Footer text, e.g. '© {year} Me'
 
 ############################
