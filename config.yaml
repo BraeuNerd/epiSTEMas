@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: epiSTEMas Podcast # Website name
 baseurl: 'https://epistemas.netlify.app/' # Website URL
-copyright: '© 2021 epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

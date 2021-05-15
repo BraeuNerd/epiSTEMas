@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on epiSTEMas Podcast</title>
+    <link>https://epistemas.netlify.app/tags/</link>
+    <description>Recent content in Tags on epiSTEMas Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.</copyright>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epistemas.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biología</title>
+      <link>https://epistemas.netlify.app/tag/biologia/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/biologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comunicación</title>
+      <link>https://epistemas.netlify.app/tag/comunicacion/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/comunicacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limnología</title>
+      <link>https://epistemas.netlify.app/tag/limnologia/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/limnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aracnología</title>
+      <link>https://epistemas.netlify.app/tag/aracnologia/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/aracnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioquímica y Microbiología</title>
+      <link>https://epistemas.netlify.app/tag/bioquimica-y-microbiologia/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/bioquimica-y-microbiologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciencias Espaciales</title>
+      <link>https://epistemas.netlify.app/tag/ciencias-espaciales/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/ciencias-espaciales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioquímica</title>
+      <link>https://epistemas.netlify.app/tag/bioquimica/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/bioquimica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>control biológico</title>
+      <link>https://epistemas.netlify.app/tag/control-biologico/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/control-biologico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiología</title>
+      <link>https://epistemas.netlify.app/tag/microbiologia/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/microbiologia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

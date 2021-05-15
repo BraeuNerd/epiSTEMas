@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on epiSTEMas Podcast</title>
+    <link>https://epistemas.netlify.app/categories/</link>
+    <description>Recent content in Categories on epiSTEMas Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.</copyright>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epistemas.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biología</title>
+      <link>https://epistemas.netlify.app/category/biologia/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/category/biologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioquímica y Microbiología</title>
+      <link>https://epistemas.netlify.app/category/bioquimica-y-microbiologia/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/category/bioquimica-y-microbiologia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
