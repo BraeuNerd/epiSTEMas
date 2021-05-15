@@ -62,3 +62,7 @@ Nuestros objetivos:
 - Promover una cultura de curiosidad y aprendizaje en nuestra región
 - Traer a científicos hispanohablantes al frente y romper la idea de que sólo en el Norte Global se hace ciencia
 - Inspirar a audiencias jóvenes a seguir carreras en  STEM
+
+
+Escucha nuestro trailer aquí:
+<iframe src="https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
