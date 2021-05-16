@@ -57,14 +57,15 @@ En las últimas décadas, profesionales en STEM han aprovechado más y más los 
 
 **En epiSTEMas contribuimos a cambiar estos estereotipos y eliminar estas barreras. En nuestro podcast entrevistamos a profesionales de STEM hispanohablantes sobre su vida personal y las diversas trayectorias en STEM; sus investigaciones y aplicaciones; y qué consejos le darían a su "yo" de 17 años.**
 
-Nuestros objetivos:
+:clipboard: Nuestros objetivos:
 - Romper estereotipos en torno a las carreras y profesionales en STEM
 - Promover una cultura de curiosidad y aprendizaje en nuestra región
 - Traer a científicos hispanohablantes al frente y romper la idea de que sólo en el Norte Global se hace ciencia
-- Inspirar a audiencias jóvenes a seguir carreras en  STEM
+- Inspirar a audiencias jóvenes a seguir carreras en  STEM 
+
 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-No te pierdas ni un nuevo episodio ¡[suscríbete a nuestro boletín aquí](http://eepurl.com/hyEnr1)! ~prometemos no enviarte spam, únicamente recibirás un correo semanal cuando publiquemos un nuevo episodio~
+:love_letter: No te pierdas ni un nuevo episodio ¡[suscríbete a nuestro boletín aquí](http://eepurl.com/hyEnr1)! (No te preocupes, no te enviaremos correos por montones, únicamente recibirás un correo semanal cuando publiquemos un nuevo episodio :wink:)
