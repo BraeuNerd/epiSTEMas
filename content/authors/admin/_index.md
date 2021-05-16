@@ -64,5 +64,7 @@ Nuestros objetivos:
 - Inspirar a audiencias jóvenes a seguir carreras en  STEM
 
 
-Escucha nuestro trailer aquí:
 <iframe src="https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+No te pierdas ni un nuevo episodio ¡[suscríbete a nuestro boletín aquí](http://eepurl.com/hyEnr1)! ~prometemos no enviarte spam, únicamente recibirás un correo semanal cuando publiquemos un nuevo episodio~
