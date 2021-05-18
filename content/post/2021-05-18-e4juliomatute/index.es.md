@@ -36,7 +36,7 @@ Sigue a la [chocolatería Sero en Instagram](https://www.instagram.com/sero_choc
 
 Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
-Y seguir a epiSTEMas en: 
+
 
 Recuerda seguir a epiSTEMas en:
 
