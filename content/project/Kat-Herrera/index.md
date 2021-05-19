@@ -22,7 +22,7 @@ tags:
 title: Katherinne Herrera
 ---
 
-Guiada por la curiosidad y determinada a siempre ver la vida a través de los ojos de una niña, Kat vive haciendo preguntas de todo lo que le rodea y buscando la manera de responderlas y satisfacer su curiosidad. Kat es Bioquímica y Microbióloga (BSc *in fieri*) guatemalteca, co-fundadora de la Asociación Guatemalteca de Ingeniería y Ciencias Espaciales, y con una particular fascinación por las arañas.
+Guiada por la curiosidad y determinada a siempre ver la vida a través de los ojos de una niña, Kat vive haciendo preguntas de todo lo que le rodea y buscando la manera de responderlas y satisfacer su curiosidad. Disfruta tener discusiones en twitter tanto como organizar actividades para motivar a más niños y adolescentes a interesarse por las carreras en STEM. Kat es Bioquímica y Microbióloga (BSc *in fieri*) guatemalteca, co-fundadora de la [Asociación Guatemalteca de Ingeniería y Ciencias Espaciales](https://www.facebook.com/ExploracionEspacialGt), y con una particular fascinación por las arañas.
 
 
 ¡[Escucha su episodio aquí](https://epistemas.netlify.app/post/e2katherrera/) para conocerla un poco más! 
