@@ -1,5 +1,5 @@
 ---
-title: 'Alina Castañeda: la importancia de los zoológicos y la docencia'
+title: 'Alina Castañeda: de zoológicos a la cátedra'
 author: epiSTEMas
 date: '2021-05-25'
 slug: e5alinacastaneda
