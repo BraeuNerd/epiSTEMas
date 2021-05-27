@@ -1,31 +1,37 @@
 ---
 widget: hero
 
-active: false
+active: true
 
 
 headless: true
 weight: 10
-title: Hugo Academic Starter
-hero_media: hero-academic.png
-cta:
-  label: '**Get Started**'
-  url: https://wowchemy.com/templates/
-cta_alt:
-  label: Ask a question
-  url: https://discord.gg/z8wNYzb
-cta_note:
-  label: >-
-    <a class="js-github-release" href="https://wowchemy.com/updates/" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+title: epiSTEMas
+#hero_media: hero-academic.png
+#cta:
+#  label: '**Escúchanos en tu plataforma favorita**'
+#  url: https://wowchemy.com/templates/
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    gradient_end: '#f4dc40'
+    gradient_start: '#6BC8E0'
     text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px","0"]
 advanced:
   css_class: fullscreen
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+¡**Escúchanos** en tu plataforma de Podcasts favorita!
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+[![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA)
+
+[![Escucha en Apple Podcasts](esApple.png)](https://podcasts.apple.com/us/podcast/epistemas/id1569396615)
+
+[![Escucha en Google Podcasts](esGoogle.png)](https://bit.ly/3vyB2ve)
+
+[![Escucha en Deezer](esDeezer.png)](https://deezer.page.link/in4ZPPKEhYQss6YG7)
+
+[![Escucha en Stitcher](esStitcher.png)](https://www.stitcher.com/podcast/epistemas)
+
+[![Escucha en ivoox](esIvoox.png)](https://mx.ivoox.com/es/s_p2_1241617_1.html)
