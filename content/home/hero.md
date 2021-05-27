@@ -1,7 +1,7 @@
 ---
 widget: hero
 
-active: true
+active: false
 
 headless: true
 weight: 10
@@ -23,11 +23,7 @@ advanced:
 
 ¡**Escúchanos** en tu plataforma de Podcasts favorita!
 
-[![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA)
-
-[![Escucha en Apple Podcasts](esApple.png)](https://podcasts.apple.com/us/podcast/epistemas/id1569396615)
-
-[![Escucha en Google Podcasts](esGoogle.png)](https://bit.ly/3vyB2ve)
+[![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA) [![Escucha en Apple Podcasts](esApple.png)](https://podcasts.apple.com/us/podcast/epistemas/id1569396615) [![Escucha en Google Podcasts](esGoogle.png)](https://bit.ly/3vyB2ve)
 
 [![Escucha en Deezer](esDeezer.png)](https://deezer.page.link/in4ZPPKEhYQss6YG7)
 
