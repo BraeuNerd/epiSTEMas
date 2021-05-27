@@ -6,14 +6,104 @@
     <description>Recent content in Tags on epiSTEMas Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.</copyright>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epistemas.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio o afiliaciones con cualquier otra organización, esto estará claro en cada episodio.</copyright>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://epistemas.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biología</title>
       <link>https://epistemas.netlify.app/tag/biologia/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://epistemas.netlify.app/tag/biologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservación</title>
+      <link>https://epistemas.netlify.app/tag/conservacion/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/conservacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docencia</title>
+      <link>https://epistemas.netlify.app/tag/docencia/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/docencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vida Silvestre</title>
+      <link>https://epistemas.netlify.app/tag/vida-silvestre/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/vida-silvestre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoológicos</title>
+      <link>https://epistemas.netlify.app/tag/zoologicos/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/zoologicos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioquímica</title>
+      <link>https://epistemas.netlify.app/tag/bioquimica/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/bioquimica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biotecnología</title>
+      <link>https://epistemas.netlify.app/tag/biotecnologia/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/biotecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chocolate</title>
+      <link>https://epistemas.netlify.app/tag/chocolate/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/chocolate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emprendedurismo</title>
+      <link>https://epistemas.netlify.app/tag/emprendedurismo/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/emprendedurismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingeniería Genética</title>
+      <link>https://epistemas.netlify.app/tag/ingenieria-genetica/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/ingenieria-genetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecnología</title>
+      <link>https://epistemas.netlify.app/tag/tecnologia/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://epistemas.netlify.app/tag/tecnologia/</guid>
       <description></description>
     </item>
     
@@ -59,15 +149,6 @@
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://epistemas.netlify.app/tag/ciencias-espaciales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bioquímica</title>
-      <link>https://epistemas.netlify.app/tag/bioquimica/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://epistemas.netlify.app/tag/bioquimica/</guid>
       <description></description>
     </item>
     

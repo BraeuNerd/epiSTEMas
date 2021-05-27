@@ -6,7 +6,7 @@
     <description>Recent content in Authors on epiSTEMas Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio, esto estará claro en cada episodio.</copyright><atom:link href="https://epistemas.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio o afiliaciones con cualquier otra organización, esto estará claro en cada episodio.</copyright><atom:link href="https://epistemas.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>epiSTEMas</title>
       <link>https://epistemas.netlify.app/author/epistemas/</link>
@@ -19,15 +19,16 @@
 &lt;p&gt;&lt;strong&gt;La ciencia y la tecnología&lt;/strong&gt; - herramientas clave para el desarrollo - no pueden estar fuera del alcance de todos los demás sectores de la sociedad.&lt;/p&gt;
 &lt;p&gt;En las últimas décadas, profesionales en STEM han aprovechado más y más los medios de comunicación 2.0 para acercar la ciencia a todo el mundo, con un creciente esfuerzo por incluir a profesionales de distintos orígenes y trasfondos. Sin embargo, la mayoría de este tipo de contenido se continúa haciendo en inglés.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;En epiSTEMas contribuimos a cambiar estos estereotipos y eliminar estas barreras. En nuestro podcast entrevistamos a profesionales de STEM hispanohablantes sobre su vida personal y las diversas trayectorias en STEM; sus investigaciones y aplicaciones; y qué consejos le darían a su &amp;ldquo;yo&amp;rdquo; de 17 años.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Nuestros objetivos:&lt;/p&gt;
+&lt;p&gt;📋 Nuestros objetivos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Romper estereotipos en torno a las carreras y profesionales en STEM&lt;/li&gt;
 &lt;li&gt;Promover una cultura de curiosidad y aprendizaje en nuestra región&lt;/li&gt;
 &lt;li&gt;Traer a científicos hispanohablantes al frente y romper la idea de que sólo en el Norte Global se hace ciencia&lt;/li&gt;
 &lt;li&gt;Inspirar a audiencias jóvenes a seguir carreras en  STEM&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Escucha nuestro trailer aquí:&lt;/p&gt;
-&lt;iframe src=&#34;https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4&#34; width=&#34;100%&#34; height=&#34;232&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;</description>
+&lt;iframe src=&#34;https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4&#34; width=&#34;100%&#34; height=&#34;232&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;💌 No te pierdas ni un nuevo episodio ¡&lt;a href=&#34;http://eepurl.com/hyEnr1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;suscríbete a nuestro boletín aquí&lt;/a&gt;! (No te preocupes, no te enviaremos correos por montones, únicamente recibirás un correo semanal cuando publiquemos un nuevo episodio 😉)&lt;/p&gt;
+</description>
     </item>
     
   </channel>
