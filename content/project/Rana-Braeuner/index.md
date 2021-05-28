@@ -14,6 +14,10 @@ links:
   icon_pack: fas
   name: Sitio Web
   url: https://www.braeunerd.com/
+- icon: linkedin
+  icon_pack: fab
+  name: LinkedIn
+  url: https://www.linkedin.com/in/mar%C3%ADa-braeuner/
 
 summary: " 'El mundo debe poder conocer tu historia' "
 tags:

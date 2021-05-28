@@ -16,12 +16,12 @@ design:
     gradient_start: '#6BC8E0'
     text_color_light: true
   spacing:
-    padding: ["40px", "0", "10px","0"]
+    padding: ["20px", "0", "20px","0"]
 advanced:
   css_class: fullscreen
 ---
 
-¡**Escúchanos** en tu plataforma de **Podcasts** favorita!
+¡**Escúchanos** en tu plataforma de **Podcasts** favorita! 
 
 [![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA) 
 
