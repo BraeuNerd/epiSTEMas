@@ -8,10 +8,10 @@ categories:
 tags:
   - Bioquímica
   - Biotecnología
-  - Chocolate
   - Emprendedurismo
   - Ingeniería Genética
   - Tecnología
+  - Científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []

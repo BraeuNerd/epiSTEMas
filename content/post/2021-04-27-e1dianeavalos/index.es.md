@@ -10,6 +10,7 @@ tags:
   - microbiología
   - control biológico
   - comunicación
+  - Científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []

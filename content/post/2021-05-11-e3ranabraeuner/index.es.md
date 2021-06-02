@@ -9,6 +9,7 @@ tags:
   - Biología
   - Limnología
   - Comunicación
+  - Científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []

@@ -10,6 +10,7 @@ tags:
   - Bioquímica y Microbiología
   - Comunicación
   - Ciencias Espaciales
+  - Científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []
