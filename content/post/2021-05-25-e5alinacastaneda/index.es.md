@@ -11,7 +11,7 @@ tags:
   - Zoológicos
   - Vida Silvestre
   - Conservación
-  - Científicos guatemaltecos
+  - Científicas guatemaltecas
 subtitle: ''
 summary: ''
 authors: []
