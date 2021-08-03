@@ -35,10 +35,12 @@ Sigue a Kat en:
 
 [Página web de Kat](http://purawira.com/)
 
-Recuerda seguir a epiSTEMas en:
+Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
-[Instagram](https://www.instagram.com/epistemas/)
+Y sigue a epiSTEMas en:
 
-[Facebook](https://www.facebook.com/epiSTEMasPod)  
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
-[Twitter](https://twitter.com/epiSTEMas_Pod)
+[Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

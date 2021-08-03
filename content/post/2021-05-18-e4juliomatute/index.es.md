@@ -36,12 +36,10 @@ Sigue a la [chocolatería Sero en Instagram](https://www.instagram.com/sero_choc
 
 Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
+Y sigue a epiSTEMas en:
 
-
-Recuerda seguir a epiSTEMas en:
-
-[Instagram epiSTEMas](https://www.instagram.com/epistemas/)
-
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod)  
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

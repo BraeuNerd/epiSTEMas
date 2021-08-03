@@ -41,13 +41,12 @@ Visita la [página web de Andrés aquí](https://andresnovaleswildlife.com/) y e
 
 
 
-Y recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
+Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
-
-Y seguir a epiSTEMas en:
+Y sigue a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) 
-
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

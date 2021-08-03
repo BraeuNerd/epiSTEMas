@@ -30,14 +30,12 @@ De maestra de párvulos a...¿investigadora? El sueño de ser diseñadora de mod
 Encuentra a Verónica en [Instagram @veroyuki](https://www.instagram.com/veroyuki/) y en [Twitter @vcastroaceituno](https://twitter.com/vcastroaceituno)
 
 
-
 Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
-
 
 Y sigue a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) 
-
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

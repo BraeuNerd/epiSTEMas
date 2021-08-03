@@ -34,10 +34,12 @@ Sigue a la Rana en:
 
 [Página web BraeuNERD](https://www.braeunerd.com/)
 
-Recuerda seguir a epiSTEMas en:
+Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
-[Instagram epiSTEMas](https://www.instagram.com/epistemas/)
+Y sigue a epiSTEMas en:
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod)  
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

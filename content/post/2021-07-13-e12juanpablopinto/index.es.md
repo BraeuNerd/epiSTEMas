@@ -32,11 +32,10 @@ Encuentra a  Juan Pablo en Instagram como [@j_pablo_pinto](https://www.instagram
 
 Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
-
 Y sigue a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) 
-
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)

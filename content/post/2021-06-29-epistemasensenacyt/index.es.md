@@ -25,3 +25,13 @@ Agradecemos a la Secretaría Nacional de Ciencia y Tecnología (SENACYT) del Gob
 ¡Esperamos se lo disfruten!
 
 <iframe src="https://open.spotify.com/embed/episode/19I8HAHV7BtNFQgIjf6nRR" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
+
+Y sigue a epiSTEMas en:
+
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
+
+[Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
