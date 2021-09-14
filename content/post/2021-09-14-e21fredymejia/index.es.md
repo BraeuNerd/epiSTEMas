@@ -1,5 +1,5 @@
 ---
-title: 'E21 Fredy Mejía: la humanidad en la embriología y andrología'
+title: 'Fredy Mejía: la humanidad en la embriología y andrología'
 author: epiSTEMas
 date: '2021-09-14'
 slug: e21fredymejia
@@ -24,7 +24,8 @@ image:
   preview_only: no
 projects: []
 ---
-#021: De la improbable fusión de un óvulo y un espermatozoide, y de seguro muchas historias de por medio, llegaste a estar aquí hoy escuchando este podcast. Pero, ¿por qué improbable? En esta ocasión hablamos con el embriólogo y andrólogo guatemalteco Fredy Mejía. Fredy nos comparte, entre datos y emociones, por qué es tan difícil tener un embarazo exitoso, la imperfecta e insistente naturaleza de la reproducción humana, y cómo se ve el día a día de un embriólogo y andrólogo. Acompáñanos a conocer su historia llena de serendipia que lo llevó de dar clases de buceo a encontrar la bioquímica - sin saber a qué se estaba metiendo - y la oportuna oferta que le abrió camino en el área de la embriología. 
+
+De la improbable fusión de un óvulo y un espermatozoide, y de seguro muchas historias de por medio, llegaste a estar aquí hoy escuchando este podcast. Pero, ¿por qué improbable? En esta ocasión hablamos con el embriólogo y andrólogo guatemalteco Fredy Mejía. Fredy nos comparte, entre datos y emociones, por qué es tan difícil tener un embarazo exitoso, la imperfecta e insistente naturaleza de la reproducción humana, y cómo se ve el día a día de un embriólogo y andrólogo. Acompáñanos a conocer su historia llena de serendipia que lo llevó de dar clases de buceo a encontrar la bioquímica - sin saber a qué se estaba metiendo - y la oportuna oferta que le abrió camino en el área de la embriología. 
 
 ¡Atención! En este episodio tocamos temas sensibles para algunas personas, como la infertilidad, pérdidas, y otros problemas para concebir.
 
