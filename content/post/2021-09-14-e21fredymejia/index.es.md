@@ -1,5 +1,5 @@
 ---
-title: 'Fredy Mejía: la humanidad en la embriología y andrología'
+title: 'E21 Fredy Mejía: la humanidad en la embriología y andrología'
 author: epiSTEMas
 date: '2021-09-14'
 slug: e21fredymejia
