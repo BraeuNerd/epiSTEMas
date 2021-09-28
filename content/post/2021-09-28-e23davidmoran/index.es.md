@@ -32,9 +32,16 @@ projects: []
 
 - - - - -
 Las recomendaciones de autores que menciona David en el episodio:
+
+
 [Desmond Morris](https://www.goodreads.com/author/show/18708.Desmond_Morris?from_search=true&from_srp=true) (e.g. [El mono desnudo](https://www.goodreads.com/book/show/687335.El_mono_desnudo?from_search=true&from_srp=true&qid=j63s3tkib5&rank=1))
+
+
 [Virgilio Rodríguez Macal](https://www.goodreads.com/author/show/1323196.Virgilio_Rodr_guez_Macal)
+
+
 [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+
 
 
 [Aquí puedes leer sobre el origen del término "científico" (en inglés)](https://www.tandfonline.com/doi/pdf/10.1080/00033796200202722)
