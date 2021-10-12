@@ -16,7 +16,6 @@ tags:
    - Científicos guatemaltecos
 categories: 
    - Ingeniería Mecatrónica
-date: 2021-08-24T16:42:03+02:00
 lastmod: 2021-08-24T16:42:03+02:00
 featured: false
 draft: false
