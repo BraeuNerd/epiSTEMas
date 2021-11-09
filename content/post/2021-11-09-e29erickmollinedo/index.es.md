@@ -32,6 +32,10 @@ Del agua al aire. Los planes no siempre salen como esperamos, pero distintos cam
 
 - - - - -
 
+[Conoce más sobre el proyecto HAPIN aquí.](https://www.hapintrial.org/)
+
+- - - - -
+
 Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
 
 Y sigue a epiSTEMas en:
