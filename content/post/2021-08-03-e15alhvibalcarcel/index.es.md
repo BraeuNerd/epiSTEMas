@@ -11,6 +11,7 @@ tags:
   - Ingeniería en Ciencias de la Computación
   - Científicas guatemaltecas
   - Videojuegos
+  - Women Who Code
   - Programación
 subtitle: ''
 summary: ''

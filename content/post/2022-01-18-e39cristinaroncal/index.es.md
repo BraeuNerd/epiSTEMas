@@ -23,9 +23,9 @@ image:
 projects: []
 ---
 
- Cuando algunas oportunidades se nos escapan, todo el trabajo duro que hicimos para alcanzarlas puede parecer en vano... pero no lo es, ya que a veces puede convertirse en la base de algo mucho más grande de lo que imaginábamos. En este episodio hablamos con Cristina Roncal, Ingeniera en Sistemas guatemalteca y Directora de la comunidad Women Who Code, capítulo Guatemala. Desde ser una niña que guiada por la curiosidad llegó a desarmar un televisor, hasta ser una profesional en un campo en donde las mujeres aún son minoría y formar una comunidad que promueve, educa y apoya a mujeres interesadas en distintas áreas de la tecnología. Persistencia y motivación. Crecimiento en comunidad. Educación accesible e inclusiva. ¡Acompáñanos!
+Cuando algunas oportunidades se nos escapan, todo el trabajo duro que hicimos para alcanzarlas puede parecer en vano... pero no lo es, ya que a veces puede convertirse en la base de algo mucho más grande de lo que imaginábamos. En este episodio hablamos con Cristina Roncal, Ingeniera en Sistemas guatemalteca y Directora de la comunidad Women Who Code, capítulo Guatemala. Desde ser una niña que guiada por la curiosidad llegó a desarmar un televisor, hasta ser una profesional en un campo en donde las mujeres aún son minoría y formar una comunidad que promueve, educa y apoya a mujeres interesadas en distintas áreas de la tecnología. Persistencia y motivación. Crecimiento en comunidad. Educación accesible e inclusiva. ¡Acompáñanos!
  
- <iframe src="https://open.spotify.com/embed/episode/0dGjcu00BgbhSp5TKQWUwP?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0dGjcu00BgbhSp5TKQWUwP?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 - - - - -
 
