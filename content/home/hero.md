@@ -6,14 +6,14 @@ active: true
 headless: true
 weight: 10
 title: epiSTEMas
-#hero_media: hero-academic.png
+hero_media: epiSTEMas_transparente.png
 #cta:
 #  label: '**Escúchanos en tu plataforma favorita**'
 #  url: https://wowchemy.com/templates/
 design:
   background:
-    gradient_end: '#f4dc40'
-    gradient_start: '#6BC8E0'
+    gradient_end: '#6BC8E0'
+    gradient_start: '#f4dc40'
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px","0"]

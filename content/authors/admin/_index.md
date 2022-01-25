@@ -70,4 +70,4 @@ En las últimas décadas, profesionales en STEM han aprovechado más y más los 
 
 
 
-:love_letter: No te pierdas ni un nuevo episodio ¡[suscríbete a nuestro boletín aquí](http://eepurl.com/hyEnr1)! (No te preocupes, no te enviaremos correos por montones, únicamente recibirás un correo semanal cuando publiquemos un nuevo episodio :wink:)
+:love_letter: No te pierdas ni un nuevo episodio ¡[suscríbete a nuestro boletín aquí](http://eepurl.com/hyEnr1)!  :wink:
