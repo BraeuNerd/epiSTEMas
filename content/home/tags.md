@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: 'Busca por tu tema favorito:'
-subtitle: 'Filtra por temas'
+title: 'Busca un episodio por tu tema favorito:'
+subtitle: ''
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
