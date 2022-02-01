@@ -1,11 +1,12 @@
 ---
-title: 'E40 Rocío Ormazábal: Catástrofes, pronósticos, y ¡nubes!'
+title: 'E41 Rocío Ormazábal: Catástrofes, pronósticos, y ¡nubes!'
 author: epiSTEMas
 date: '2022-02-01'
 slug: e40rocioormazabal
 categories:
   - Geofísica
 tags:
+  - Geofísica
   - Meteorología
   - Climatología
   - Nefología
