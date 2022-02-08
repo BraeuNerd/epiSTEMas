@@ -58,3 +58,12 @@ Y sigue a epiSTEMas en:
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
 [Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+
+
+
+- - - - -
+
+
+Música extra por Tri-Tachyon - [https://soundcloud.com/tri-tachyon/albums](https://soundcloud.com/tri-tachyon/albums)
+
+Sonido de bosque y aves: [Klankbeeld](freesound.org/people/klankbeeld/)
