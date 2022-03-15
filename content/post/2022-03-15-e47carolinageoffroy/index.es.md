@@ -1,5 +1,5 @@
 ---
-title: 'E47 Carolina Geoffroy: geología, vulcanología, y ¡Mujeres Haciendo Ciencia!'
+title: 'E47 Carolina Geoffroy: geología, volcanología, y ¡Mujeres Haciendo Ciencia!'
 author: epiSTEMas
 date: '2022-03-15'
 slug: e47carolinageoffroy
@@ -7,7 +7,7 @@ categories:
   - Geología
 tags:
   - Geología
-  - Vulcanología
+  - Volcanología
   - Mujeres Haciendo Ciencia
   - Ciencias de la Tierra
   - Científicas chilenas
@@ -25,7 +25,7 @@ image:
 projects: []
 ---
 
-Casi todos los países de Latinoamérica somos parte del Cinturón de Fuego del Pacífico y tenemos mucha actividad volcánica. Pero, ¿qué tanto sabes de los volcanes? ¿Podríamos predecir cuándo ocurrirá una erupción? El día de hoy hablamos con la geóloga y vulcanóloga chilena Carolina Geoffroy, quien nos comparte cómo de un interés inicial por la ingeniería y las matemáticas llegó a la geología para luego enamorarse de la vulcanología. Aunque en un inicio con un poco de miedo por la falta de referentes en la ciencia, decidió dedicarse al entendimiento de nuestro planeta y sus desastres geológicos. Pero, aún cuando la falta de influencias científicas cercanas pudo haber sido un obstáculo, para ella ¡fue una motivación mucho más trascendental! Caro es hoy también cofundadora de la comunidad “Mujeres Haciendo Ciencia”, en donde se busca visibilizar el trabajo de las mujeres de Latinoamérica en la ciencia para que niñas y jóvenes sí tengan estos referentes en las STEM. Volcanes, peligros geológicos, comunicación científica y ¡más Mujeres Haciendo Ciencia! 
+Casi todos los países de Latinoamérica somos parte del Cinturón de Fuego del Pacífico y tenemos mucha actividad volcánica. Pero, ¿qué tanto sabes de los volcanes? ¿Podríamos predecir cuándo ocurrirá una erupción? El día de hoy hablamos con la geóloga y volcanóloga chilena Carolina Geoffroy, quien nos comparte cómo de un interés inicial por la ingeniería y las matemáticas llegó a la geología para luego enamorarse de la volcanología. Aunque en un inicio con un poco de miedo por la falta de referentes en la ciencia, decidió dedicarse al entendimiento de nuestro planeta y sus desastres geológicos. Pero, aún cuando la falta de influencias científicas cercanas pudo haber sido un obstáculo, para ella ¡fue una motivación mucho más trascendental! Caro es hoy también cofundadora de la comunidad “Mujeres Haciendo Ciencia”, en donde se busca visibilizar el trabajo de las mujeres de Latinoamérica en la ciencia para que niñas y jóvenes sí tengan estos referentes en las STEM. Volcanes, peligros geológicos, comunicación científica y ¡más Mujeres Haciendo Ciencia! 
 
 ¡No te lo pierdas!
 
