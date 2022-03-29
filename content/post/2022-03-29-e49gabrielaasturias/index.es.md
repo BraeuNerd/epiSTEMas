@@ -39,7 +39,7 @@ Llama a ALMA al 1-801-00-54321
 
 - - - - -
 
-Recursos de salud mental en Guatemala:
+Algunos recursos de salud mental en Guatemala:
 
 [TuConsejeria](https://tuconsejeria.com/)
 
