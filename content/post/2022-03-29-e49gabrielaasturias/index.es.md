@@ -33,7 +33,7 @@ Si has pasado la pandemia en Guatemala de seguro conoces a ALMA: la Asistente de
 
 - - - - -
 
-Encuentra a Gaby en [Twitter](https://twitter.com/gasturias) e [Instagram] (https://www.instagram.com/gabrielaasturiasgt/), el Twitter de [FUNDEGUA](https://twitter.com/InfoFundegua) y el Twitter de [ALMA](https://twitter.com/alma_responde)
+Encuentra a Gaby en [Twitter](https://twitter.com/gasturias) e [Instagram](https://www.instagram.com/gabrielaasturiasgt/), el Twitter de [FUNDEGUA](https://twitter.com/InfoFundegua) y el Twitter de [ALMA](https://twitter.com/alma_responde)
 
 Llama a ALMA al 1-801-00-54321
 
