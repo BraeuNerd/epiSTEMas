@@ -39,6 +39,8 @@ Los artículos prometidos durante el episodio:
 2) [Guarderías (y otras formas de cooperación) entre murciélagos](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0095)
 
 3) Algunos artículos sobre la menstruación en murciélagos: 
+
+
 3.1: ["Sperm storage, delayed ovulation, and menstruation of the female Rickett's Big-Footed Bat (Myotis ricketti)"](http://zoolstud.sinica.edu.tw/Journals/47.2/215.pdf)
 
 3.2: ["Ovulation, Fertilization, and Early Embryonic Development in the Menstruating Fruit Bat, Carollia perspicillata"](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/ar.21304)
