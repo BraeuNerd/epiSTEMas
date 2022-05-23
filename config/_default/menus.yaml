@@ -5,10 +5,10 @@
 
 main:
   - name: Posts
-    url: 'posts/'
+    url: '#posts'
     weight: 10
   - name: Sobre epiSTEMas
-    url: 'about/'
+    url: '#about'
     weight: 20
   - name: Hosts
     url: '#projects'
