@@ -2,10 +2,10 @@
 name = "epistemasfont"
 
 # Optional Google font URL
-google_fonts = "family=ChauPhilomeneOne:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Chau+Philomene+One:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "ChauPhilomeneOne"
+heading_font = "Chau Philomene One"
 body_font = "Roboto"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
