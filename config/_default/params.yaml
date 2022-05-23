@@ -6,7 +6,7 @@
 # Appearance
 
 theme: epistemascol
-day_night: false
+day_night: true
 font: epistemasfont
 font_size: M
 
