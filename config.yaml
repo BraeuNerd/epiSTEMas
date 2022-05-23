@@ -5,8 +5,8 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: epiSTEMas Podcast # Website name
-baseurl: 'https://epistemas.netlify.app/' # Website URL
-copyright: '© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen. En caso algún episodio o temporada tenga patrocinio o afiliaciones con cualquier otra organización, esto estará claro en cada episodio.' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://www.epistemas.com/' # Website URL
+copyright: '© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
