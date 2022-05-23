@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: epiSTEMas Podcast # Website name
 baseurl: 'https://www.epistemas.com/' # Website URL
-copyright: '© {year} epiSTEMas  \  epiSTEMas Podcast es producido y editado por María Braeuner, Diane Avalos y Katherinne Herrera independientemente de otras organizaciones, instituciones o agrupaciones a las que pertenecen.' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} epiSTEMas' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
