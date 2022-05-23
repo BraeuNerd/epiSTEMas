@@ -3,7 +3,7 @@ name = "epistemascol"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#F5DD3A"
 
   # Menu
   menu_primary = "#fff"
