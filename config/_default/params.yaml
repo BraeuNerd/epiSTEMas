@@ -4,11 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
-theme: epistemascol
-day_night: true
-font: epistemasfont
-font_size: M
+appearance: 
+  theme_day: epistemascol
+  theme_night: epistemascol
+  day_night: true
+  font: epistemasfont
+  font_size: M
 
 # SEO
 
