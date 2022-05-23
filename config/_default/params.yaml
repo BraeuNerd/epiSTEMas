@@ -64,7 +64,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: true
   show_language: true
   show_day_night: true
@@ -86,7 +86,7 @@ highlight_languages:
   - latex
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
