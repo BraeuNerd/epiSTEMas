@@ -7,9 +7,9 @@ headless: true
 weight: 10
 title: epiSTEMas
 hero_media: epiSTEMas_transparente.png
-#cta:
-#  label: '**Escúchanos en tu plataforma favorita**'
-#  url: https://wowchemy.com/templates/
+cta:
+  label: '**Escúchanos en tu plataforma favorita**'
+  url: https://linktr.ee/epiSTEMas
 design:
   background:
     gradient_end: '#6BC8E0'
