@@ -1,11 +1,9 @@
 # Theme metadata
 name = "epistemascol"
 
-# Is theme light or dark?
-light = true
-
+[dark]
 # Primary
-primary = "#34495e"
+primary = "#000000"
 
 # Menu
 menu_primary = "#fff"
@@ -16,7 +14,3 @@ menu_title = "#2b2b2b"
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
-
-[dark]
-  link = "#6bcbe3"
-  link_hover = "#6bcbe3"
