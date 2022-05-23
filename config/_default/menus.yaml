@@ -6,16 +6,16 @@
 main:
   - name: Posts
     url: '#posts'
-    weight: 10
+    weight: 20
   - name: Sobre epiSTEMas
     url: '#about'
-    weight: 20
+    weight: 10
   - name: Hosts
     url: '#projects'
     weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
+  - name: Noticias
+    url: '#talks'
+    weight: 40
 #  - name: Publications
 #    url: '#featured'
 #    weight: 50
