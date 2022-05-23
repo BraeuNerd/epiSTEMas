@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme_night: minimal
+#day_night: true
+font: 'Chau Philomene One'
 font_size: M
 
 # SEO
