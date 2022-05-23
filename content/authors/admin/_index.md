@@ -40,6 +40,9 @@ social:
 - icon: facebook-square
   icon_pack: fab
   link: https://www.facebook.com/epiSTEMasPod
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/epistemas-podcast/
 
 superuser: true
 title: epiSTEMas
