@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme_night: minimal
-#day_night: true
+theme: minimal
+day_night: true
 font: 'Chau Philomene One'
 font_size: M
 
