@@ -36,5 +36,3 @@ design:
   view: 3
 ---
 
-
-WHAT

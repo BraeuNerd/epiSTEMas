@@ -12,7 +12,7 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2021-06-28T15:53:15+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
