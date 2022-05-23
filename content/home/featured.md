@@ -3,21 +3,21 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 70
 
-title: Featured Publications
+title: Noticias
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Filter on criteria
   filters:
     author: ""
