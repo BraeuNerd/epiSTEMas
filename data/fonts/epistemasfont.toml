@@ -7,5 +7,5 @@ google_fonts = "family=Chau+Philomene+One;700&family=Roboto+Mono&family=Roboto:w
 # Font families
 heading_font = "Chau Philomene One"
 body_font = "Roboto"
-nav_font = "Roboto"
+nav_font = "Chau Philomene One"
 mono_font = "Roboto Mono"
