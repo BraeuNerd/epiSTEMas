@@ -4,7 +4,7 @@ headless: true
 
 #Section options
 title: "Membresías y colaboraciones"
-weight: 70
+weight: 60
 design:
   columns: "2"
 ---
