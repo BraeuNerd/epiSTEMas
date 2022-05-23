@@ -12,12 +12,16 @@ name = "epistemascol"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(0, 0, 0)"
+  home_section_odd = "rgb(255, 255, 255)"
   home_section_even = "rgb(247, 247, 247)"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#6BCBE3"
 
   link = "#6BCBE3"
   link_hover = "#F5DD3A"
+  
+  # Home sections
+  home_section_odd = "rgb(0, 0, 0)"
+  home_section_even = "rgb(23, 23, 23)"
