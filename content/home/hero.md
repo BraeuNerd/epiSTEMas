@@ -3,7 +3,7 @@ widget: hero
 
 active: true
 
-headless: false
+headless: true
 weight: 10
 title: epiSTEMas
 hero_media: epiSTEMas_transparente.png
