@@ -4,24 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Posts
+  - name: Episodios
     url: '#posts'
     weight: 20
   - name: Sobre epiSTEMas
     url: '#about'
     weight: 30
-  - name: Hosts
-    url: '#projects'
-    weight: 50
   - name: Noticias
     url: '#featured'
     weight: 40
+  - name: Anfitrionas
+    url: '#projects'
+    weight: 50
   - name: Membresías
     url: '#members'
     weight: 60
-#  - name: Courses
-#    url: courses/
-#    weight: 60
+  - name: Temas
+    url: '#tags'
+    weight: 70
   - name: Contáctanos
     url: '#contact'
-    weight: 70
+    weight: 80
