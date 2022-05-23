@@ -3,7 +3,7 @@ name = "epistemascol"
 
 [dark]
 # Primary
-primary = "#000000"
+primary = "#34495e"
 
 # Menu
 menu_primary = "#fff"
@@ -12,5 +12,9 @@ menu_text_active = "#f5dd3a"
 menu_title = "#2b2b2b"
 
 # Home sections
-home_section_odd = "rgb(0, 0, 0)"
-home_section_even = "rgb(128, 128, 128)"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+
+link = "#6bcbe3"
+link_hover = "#6bcbe3"

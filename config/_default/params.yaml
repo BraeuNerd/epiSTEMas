@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: epistemascol
-day_night: true
+theme_night: epistemascol
+day_night: false
 font: epistemasfont
 font_size: M
 
