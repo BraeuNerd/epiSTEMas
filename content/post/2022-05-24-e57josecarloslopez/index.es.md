@@ -35,7 +35,7 @@ Divulgación de afiliados: En EpiSTEMas estamos afiliadas a Blinkist y Coursera 
 Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732)
 
 
-Te recomendamos este curso para aprender a programar desde cero: [Programming with Scratch](imp.i384100.net/qn6drY)
+Te recomendamos este curso para aprender a programar desde cero: [Programming with Scratch](https://imp.i384100.net/c/2994553/1242836/14726?prodsku=crse%3A_pN6y0Z3EeeMtBKozo_2UA&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-with-scratch&intsrc=PUI2_9419&subId1=EpiSTEMas)
 
 - - - - -
 
