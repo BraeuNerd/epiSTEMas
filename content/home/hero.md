@@ -19,6 +19,32 @@ design:
     padding: ["20px", "0", "20px","0"]
 advanced:
   css_class: fullscreen
+  
+email: "epistemaspod@gmail.com"
+highlight_name: true
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- display:
+    header: true
+- icon: spotify
+  icon_pack: fab
+  link: https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg
+- icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/epiSTEMas_Pod
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/epistemas/
+- icon: facebook-square
+  icon_pack: fab
+  link: https://www.facebook.com/epiSTEMasPod
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/epistemas-podcast/
+
 ---
 
 
