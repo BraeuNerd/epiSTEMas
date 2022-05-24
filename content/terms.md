@@ -15,13 +15,17 @@ This page provides the details about the person responsible of this site as requ
 
 María Renée Braeuner – Sole Proprietor/Kleinunternehmer
 
-An der Halde 22a
-86807 Buchloe
-Germany
+An der Halde 22a  
 
-**Contact at maria@braeunerd.com**
+86807 Buchloe  
 
-VAT registration number: DE344416797
+Germany  
+  
+
+**Contact at maria@braeunerd.com**  
+
+  
+VAT registration number: DE344416797  
 
 
 Alternative Dispute Resolution in accordance with Art. 14 (1) ODR-VO and § 36 VSBG:

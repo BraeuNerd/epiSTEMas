@@ -15,27 +15,40 @@ EpiSTEMas and Maria Braeuner (the “controller”, “I”, “us”, “we”,
 
 This page informs you of our policies regarding the collection, type, scope, purpose, use, duration, and disclosure of personal data when you use our Service and the choices you have associated with the data. It also informs about the third-party components we use to optimize our website and improve the user experience which may result in said third parties also processing data they collect and control.
 
-**NOTE ON THE RESPONSIBLE BODY**
+* **NOTE ON THE RESPONSIBLE BODY**  
+
 **The responsible party for data processing on this website is:**
 
-**Maria Braeuner**
-**An der Halde 22A**
-**86807 Buchloe**
-**maria@braeunerd.com**
+**Maria Braeuner**  
 
-**The data controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, email addresses, etc.)**
+**An der Halde 22A**  
 
+**86807 Buchloe**  
+
+**maria@braeunerd.com**  
+
+
+**The data controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, email addresses, etc.)**  
+  
+   
+   
 Please read the Privacy Policy carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use if and when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy. If you do not want to agree to the Privacy Policy, you must not access or use the Website and leave this website.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Data will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, products, and services offered there.
 
 Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e the General Data Protection Regulation (hereinafter referred to as the “GDPR”), “processing” refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.
 
-What personal data we collect
+**What personal data we collect**  
+  
+  
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
-Types of Data Collected
-Personal Data
+**Types of Data Collected**  
+  
+  
+**Personal Data**  
+  
+  
 While using our Service, we may ask you to provide certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally, identifiable information may include, but it’s not limited to: email address, first name, and last name, phone number, address, state, province, ZIP/Postal code, City, transactional data, cookies, and usage data.
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials, and other information that may be of interest to you. You may opt-out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send.
