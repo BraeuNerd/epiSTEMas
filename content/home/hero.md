@@ -34,25 +34,3 @@ Te traemos inspiradoras historias detrás de profesionales en STEM y rompemos es
 
 [![Escucha en Deezer](esDeezer.png)](https://deezer.page.link/in4ZPPKEhYQss6YG7) 
 
-
-email: "epistemaspod@gmail.com"
-social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg
-- icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/epiSTEMas_Pod
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/epistemas/
-- icon: facebook-square
-  icon_pack: fab
-  link: https://www.facebook.com/epiSTEMasPod
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/company/epistemas-podcast/
