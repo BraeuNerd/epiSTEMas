@@ -36,7 +36,6 @@ Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace]
 
 
 Te recomendamos este curso para aprender a programar desde cero: [Programming with Scratch](imp.i384100.net/qn6drY)
-<a id="crse:_pN6y0Z3EeeMtBKozo_2UA" href="https://imp.i384100.net/c/2994553/1242836/14726?prodsku=crse%3A_pN6y0Z3EeeMtBKozo_2UA&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-with-scratch&intsrc=PUI2_9419" target="_top"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/93/7c5d50885c11e8ae0b834eb58f916a/ScratchCourseFinal.png?auto=format,compress" border="0" alt=""/></a>
 
 - - - - -
 
