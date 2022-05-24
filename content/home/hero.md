@@ -21,6 +21,10 @@ advanced:
   css_class: fullscreen
 ---
 
+
+Te traemos inspiradoras historias detrás de profesionales en STEM y rompemos estereotipos de la ciencia en español  
+
+
 **Escúchanos** en:
 
 [![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA) 
