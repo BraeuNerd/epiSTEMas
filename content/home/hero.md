@@ -20,8 +20,22 @@ design:
 advanced:
   css_class: fullscreen
   
+---
+
+
+Te traemos inspiradoras historias detrás de profesionales en STEM y rompemos estereotipos de la ciencia en español  
+
+
+**Escúchanos** en:
+
+[![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA) 
+
+[![Escucha en Apple Podcasts](esApple.png)](https://podcasts.apple.com/us/podcast/epistemas/id1569396615) 
+
+[![Escucha en Deezer](esDeezer.png)](https://deezer.page.link/in4ZPPKEhYQss6YG7) 
+
+
 email: "epistemaspod@gmail.com"
-highlight_name: true
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,17 +56,3 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/epistemas-podcast/
-
----
-
-
-Te traemos inspiradoras historias detrás de profesionales en STEM y rompemos estereotipos de la ciencia en español  
-
-
-**Escúchanos** en:
-
-[![Escucha en Spotify](esSpotify.png)](https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=ahBGeLOeSGO89CG2NtGiNA) 
-
-[![Escucha en Apple Podcasts](esApple.png)](https://podcasts.apple.com/us/podcast/epistemas/id1569396615) 
-
-[![Escucha en Deezer](esDeezer.png)](https://deezer.page.link/in4ZPPKEhYQss6YG7) 
