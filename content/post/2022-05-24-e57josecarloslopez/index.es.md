@@ -1,8 +1,8 @@
 ---
-title: 'E57 José Carlos López: Ingeniería Mecánica y Creación de Contenido'
+title: 'E57 José López: Ingeniería Mecánica y Creación de Contenido'
 author: epiSTEMas
 date: '2022-05-24'
-slug: e57josecarloslopez
+slug: e57joselopez
 categories:
   - Ingeniería Mecánica
 tags:
