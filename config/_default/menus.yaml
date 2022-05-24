@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Episodios
-    url: '#posts'
-    weight: 20
   - name: Sobre epiSTEMas
     url: '#about'
+    weight: 20
+  - name: Episodios
+    url: '#posts'
     weight: 30
   - name: Noticias
     url: '#featured'
