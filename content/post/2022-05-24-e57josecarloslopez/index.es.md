@@ -32,7 +32,7 @@ A veces en el camino de STEM nos podemos encontrar con dudas, e incluso perderle
 Divulgación de afiliados: En EpiSTEMas estamos afiliadas a Blinkist y Coursera - ¡plataformas que nos encantan! - por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. te suscribes o realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉
 
 
-Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fde%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer)
+Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer)
 
 
 Te recomendamos este curso para aprender a programar desde cero: [Programming with Scratch](https://imp.i384100.net/c/2994553/1242836/14726?prodsku=crse%3A_pN6y0Z3EeeMtBKozo_2UA&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-with-scratch&intsrc=PUI2_9419&subId1=EpiSTEMas)
