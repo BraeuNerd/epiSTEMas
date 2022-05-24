@@ -1,5 +1,5 @@
 ---
-title: EpiSTEMas participa en el evento de WomenWhoCode Guatemala
+title: EpiSTEMas participa en el evento #RompiendoEstereotipos de WomenWhoCode Guatemala
 author: epiSTEMas
 date: '2022-04-13'
 slug: epistemaseventowomenwhocodeguatemala
