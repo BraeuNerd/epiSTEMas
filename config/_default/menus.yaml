@@ -16,7 +16,7 @@ main:
   - name: Anfitrionas
     url: '#projects'
     weight: 50
-  - name: Membresías
+  - name: Comunidades
     url: '#members'
     weight: 60
   - name: Temas
