@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 35
 
-title: Prueba
-subtitle: Estamos afiliadas con algunas de nuestras plataformas y apps de educacion continua favoritas. Usando estos enlaces también apoyas a EpiSTEMas
+title: Sigamos aprendiendo :wink:
+subtitle: Estamos afiliadas con algunas de nuestras plataformas y apps de educación continua favoritas. ¡Usando estos enlaces también apoyas a EpiSTEMas! Así que sigamos las recomendaciones de nuestros invitados e invitadas y nunca dejemos de leer ni aprender, ¡la tecnología hoy nos da muchas oportunidades para aprender en nuestro tiempo libre!
 
 design:
   columns: '3'
