@@ -25,8 +25,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
+#- display:
+#    header: true
 - icon: spotify
   icon_pack: fab
   link: https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg
