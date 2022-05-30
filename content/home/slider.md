@@ -1,5 +1,5 @@
 ---
-widget: slider
+widget: blank
 
 active: true
 # This file represents a page section.
@@ -12,21 +12,8 @@ title: Prueba
 subtitle: Estamos afiliadas con algunas de nuestras plataformas y apps de educacion continua favoritas. Usando estos enlaces también apoyas a EpiSTEMas
 
 design:
-  loop: true
-  interval: 2000
-  slide_height: ''
-  is_fullscreen: true
-
-content:
-  slides:
-    - title: Lalala
-      content: Prueba imagen
-      align: center
-      background:
-        position: center
-        media: Blinkist_EpiSTEMas_7habs.jpeg
-
-
+  columns: '3'
+  
 ---
 
 
