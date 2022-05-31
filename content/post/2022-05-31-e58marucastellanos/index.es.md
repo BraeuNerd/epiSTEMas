@@ -40,7 +40,7 @@ Los libros que recomendamos en este episodio:
 * Microcosmos de Lynn Margulis y Dorion Sagan  
 
 
-* Yo Contengo Multitudes de Ed yong  
+* Yo Contengo Multitudes de Ed Yong  
 
 
 * Y te dejamos una historia de Louis Pasteur para niños:  
