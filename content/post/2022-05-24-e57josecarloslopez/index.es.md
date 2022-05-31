@@ -50,7 +50,7 @@ Libros favoritos del momento de Diane, Kat & Rana:
 * ¿Está usted de broma, Sr. Feyman? de Richard Feynman  
 * The Subtle Art of Not Giving a Fck de Mark Manson
 
-
+<center>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B07PLNHHDP&asins=B07PLNHHDP&linkId=863fe8cdb973a43ba0affe2942856896&show_border=false&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=6075279792&asins=6075279792&linkId=7bd10dc643b35376d4a57c44b91e13f2&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -60,7 +60,7 @@ Libros favoritos del momento de Diane, Kat & Rana:
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=8491042792&asins=8491042792&linkId=c6c2d022fea2a55ca06939ba62966006&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B019MMUA8S&asins=B019MMUA8S&linkId=393e81a1c36203e31e24004b405f0595&show_border=true&link_opens_in_new_window=true"></iframe>
-
+</center>
 
 - - - - -
 
