@@ -68,7 +68,7 @@ Recuerda seguir a epiSTEMas en:
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
