@@ -29,7 +29,7 @@ A veces en el camino de STEM nos podemos encontrar con dudas, e incluso perderle
 
 - - - - -
 
-Divulgación de afiliados: En EpiSTEMas estamos afiliadas a Blinkist y Coursera - ¡plataformas que nos encantan! - por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. te suscribes o realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉
+Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon, Blinkist y Coursera, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. te suscribes o realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉
 
 
 Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer)
@@ -39,19 +39,44 @@ Te recomendamos este curso para aprender a programar desde cero: [Programming wi
 
 - - - - -
 
+Libros favoritos del momento de José:  
+
+* Hábitos Atómicos de James Clear  
+* Maestría de Robert Greene
+
+Libros favoritos del momento de Diane, Kat & Rana:
+
+* Don't Be Such a Scientist de Randy Olson  
+* ¿Está usted de broma, Sr. Feyman? de Richard Feynman  
+* The Subtle Art of Not Giving a Fck de Mark Manson
+
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B07PLNHHDP&asins=B07PLNHHDP&linkId=863fe8cdb973a43ba0affe2942856896&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=6075279792&asins=6075279792&linkId=7bd10dc643b35376d4a57c44b91e13f2&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=1610919173&asins=1610919173&linkId=61f01fdb9805522a99aa7c259e36196e&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=8491042792&asins=8491042792&linkId=c6c2d022fea2a55ca06939ba62966006&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B019MMUA8S&asins=B019MMUA8S&linkId=393e81a1c36203e31e24004b405f0595&show_border=true&link_opens_in_new_window=true"></iframe>
+
+
+- - - - -
+
 Encuentra a José en [TikTok](https://www.tiktok.com/@jose.libros?lang=en) y en [Instagram](https://www.instagram.com/jose.libros/)
 
 - - - - -
 
-Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
-
-Y sigue a epiSTEMas en:
+Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
 - - - - -
 
