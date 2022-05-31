@@ -46,12 +46,13 @@ Virgilio Rodríguez Macal
 Jorge Luis Borges  
 
 
-
+<center>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B0947FH2NM&asins=B0947FH2NM&linkId=bbf9b8a8310403609c6e366c3353dd46&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B07WFV2WVJ&asins=B07WFV2WVJ&linkId=71e2f932e01d3e1740c62e4fcb50ffbe&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=0307950948&asins=0307950948&linkId=650122d67bde7c8f7ede0a4b988886dd&show_border=true&link_opens_in_new_window=true"></iframe>
+</center>
 
 Declaración de afiliados: EpiSTEMas es parte del programa de afiliados de Amazon, si realizas alguna compra con los enlaces que te proveemos arriba, sin ningún costo adicional para tí, nosotras recibiremos una pequeña comisión y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio.
 
