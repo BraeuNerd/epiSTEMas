@@ -37,9 +37,15 @@ projects: []
 Las recomendaciones de autores que menciona David en el episodio:
 
 
-Desmond Morris - El mono desnudo
-Virgilio Rodríguez Macal
-Jorge Luis Borges
+Desmond Morris - El mono desnudo  
+
+
+Virgilio Rodríguez Macal  
+
+
+Jorge Luis Borges  
+
+
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B0947FH2NM&asins=B0947FH2NM&linkId=bbf9b8a8310403609c6e366c3353dd46&show_border=true&link_opens_in_new_window=true"></iframe>
 
