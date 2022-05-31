@@ -67,7 +67,7 @@ Si te interesa contactar a Maru para más información sobre la maestría en sal
 
 - - - - -
 
-Si te interesa leer las investigaciones de Maru visita aquí [su perfil de Google Scholar](https://scholar.google.com/citations?hl=en&user=Q1wjyNcAAAAJ&view_op=list_works&sortby=pubdate)
+Si te interesa leer las investigaciones de Maru visita [aquí su perfil de Google Scholar](https://scholar.google.com/citations?hl=en&user=Q1wjyNcAAAAJ&view_op=list_works&sortby=pubdate)
 
 - - - - -
 
