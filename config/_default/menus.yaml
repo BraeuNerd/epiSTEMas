@@ -10,6 +10,9 @@ main:
   - name: Episodios
     url: '#posts'
     weight: 30
+  - name: Recomendaciones
+    url: '#slider'
+    weight: 35
   - name: Noticias
     url: '#featured'
     weight: 40

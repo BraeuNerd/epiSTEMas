@@ -13,12 +13,20 @@ subtitle: (y de paso puedes obtener algunos descuentos y apoyar a EpiSTEMas)
 
 design:
   columns: 2
-  
 ---
 
 Estamos afiliadas con algunas de nuestras tiendas, plataformas y apps de educación continua favoritas. ¡Usando estos enlaces también apoyas a EpiSTEMas! Así que sigamos las recomendaciones de nuestros invitados e invitadas y nunca dejemos de leer ni aprender, ¡la tecnología hoy nos da muchas oportunidades para aprender en nuestro tiempo libre! (o en el baño :hand_over_mouth:)
 
 <center> 
+
+<a target="_blank" href="https://www.amazon.com/kindle-dbs/hz/signup?ref_=assoc_tag_ph_1454291293420&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=braeunerd04-20&linkId=80fc6d8f8fb1fcb8c546c812ae621ac2">Kindle Unlimited Membership Plans</a>
+
+
+
+
+<a target="_blank" href="https://www.amazon.com/New-Used-Textbooks-Books/b/?ie=UTF8&node=465600&ref_=assoc_tag_ph_1404857896899&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=braeunerd04-20&linkId=a9bdf149ea11e62a0b037c71258df00f">Shop Amazon - Used Textbooks - Save up to 90%</a>
+
+
 
 <a href="https://brilliant.sjv.io/c/2994553/1003364/12858?subId1=epiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Daffiliates%26utm_campaign%3D%7Birpid%7D%26utm_source%3D%7Bmp_value1%7D%26utm_content%3D%7Btimestamp%7D_%7Biradtype%7D_%7Biradname%7D%26utm_term%3D%7Bmp_value2%7D" target="_top" id="1003364"><img src="//a.impactradius-go.com/display-ad/12858-1003364" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/1003364/12858?subId1=epiSTEMas" style="position:absolute;visibility:hidden;" border="1" />
 
@@ -38,15 +46,6 @@ Estamos afiliadas con algunas de nuestras tiendas, plataformas y apps de educaci
 
 
 <font size="3"> Con [este enlace](https://blinkist.o6eiov.net/c/2994553/1097451/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Fmain) te damos un 20% de descuento en tu primera suscripción anual a Blinkist </font>
-
-
-
-<a target="_blank" href="https://www.amazon.com/kindle-dbs/hz/signup?ref_=assoc_tag_ph_1454291293420&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=braeunerd04-20&linkId=80fc6d8f8fb1fcb8c546c812ae621ac2">Kindle Unlimited Membership Plans</a>
-
-
-
-
-<a target="_blank" href="https://www.amazon.com/New-Used-Textbooks-Books/b/?ie=UTF8&node=465600&ref_=assoc_tag_ph_1404857896899&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=braeunerd04-20&linkId=a9bdf149ea11e62a0b037c71258df00f">Shop Amazon - Used Textbooks - Save up to 90%</a>
 
 
 
