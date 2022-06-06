@@ -59,7 +59,9 @@ Los libros que recomendamos en este episodio:
 ¡Compártenos en nuestras redes sociales si tú tienes algún libro de microorganismos favorito!  
   
   
-<font size = 1> (Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) </font>
+<font size = 1.5> <p style = "line-height:1"> 
+(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
+</font> </p>
 
 - - - - -
 
@@ -85,5 +87,8 @@ Recuerda seguir a epiSTEMas en:
 
 <center>
 <a href="https://blinkist.o6eiov.net/c/2994553/815678/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Dpaid%26utm_campaign%3D%7Birpid%7D%26utm_source%3DImpact%26utm_term%3D%7Biradname%7D%26utm_content%3D%7Bircid%7D" target="_top" id="815678"><img src="//a.impactradius-go.com/display-ad/10732-815678" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/815678/10732?subId1=EpiSTEMas" style="position:absolute;visibility:hidden;" border="0" /> 
-<font size="2"> Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer) </font>
+
+<font size=2> 
+Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer) 
+</font> 
 </center>
