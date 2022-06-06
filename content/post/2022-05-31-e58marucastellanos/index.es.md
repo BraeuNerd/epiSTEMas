@@ -59,7 +59,7 @@ Los libros que recomendamos en este episodio:
 ¡Compártenos en nuestras redes sociales si tú tienes algún libro de microorganismos favorito!  
   
   
-(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉)
+<font size = 1> (Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) </font>
 
 - - - - -
 
