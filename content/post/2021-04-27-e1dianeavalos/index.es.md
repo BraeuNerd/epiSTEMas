@@ -30,6 +30,8 @@ La Bioquímica & Microbióloga guatemalteca Diane Avalos nos cuenta en este epis
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/18uizt7Hj8gaXzrYjpkgaw" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Si quieres conocer más sobre Diane y qué ha pasado desde este primer episodio, [escucha nuestro Especial de Aniversario aquí](https://www.epistemas.com/post/e53especialdeaniversario1/)
+
 - - - - -
 
 Sigue a Diane en [Instagram](https://www.instagram.com/dianeavalos/)
