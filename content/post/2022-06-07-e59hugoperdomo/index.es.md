@@ -41,7 +41,7 @@ Y si te interesa leer sus publicaciones puedes visitar [su perfil de Google Scho
 
 - - - - -
 
-Si quieres seguir aprendiendo sobre enfermedades tropicales, te recomendamos [este curso de Parasitología Tropical en Coursera](https://imp.i384100.net/c/2994553/1242836/14726?prodsku=crse%3A2iG_GsYMEeWJGhLlUd0b5w&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fparasitology&intsrc=PUI2_9419&subId1=epiSTEMas) 
+Si quieres seguir aprendiendo sobre enfermedades tropicales, te recomendamos [este curso de Parasitología Tropical de Duke University en Coursera](https://imp.i384100.net/c/2994553/1242836/14726?prodsku=crse%3A2iG_GsYMEeWJGhLlUd0b5w&u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fparasitology&intsrc=PUI2_9419&subId1=epiSTEMas) 
 
 <center>
 
