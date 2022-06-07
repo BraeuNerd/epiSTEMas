@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-Dengue, chagas, e interacciones a micro-escala. Nuestro invitado en este episodio estudia ¡interacciones! Interacciones entre proteínas, microorganismos e insectos. El día de hoy hablamos con el bioquímico y Dr. en Biología Molecular guatemalteco Hugo Perdomo. Hugo nos comparte sobre su trabajo con enfermedades tropicales transmitidas por vectores, como Chagas y Dengue, y aprendemos un montón de datos curiosos que te dejarán con la boca abierta. ¿Podríamos engañar y matar mosquitos con nuestra propia sangre? ¿Virus propios de los mosquitos? Hugo nos recuerda, además, la importancia del trabajo colaborativo, el networking y el atrevernos a escalar en la vida (literal y figurativamente). ¡No te lo pierdas!
+Chagas, dengue e interacciones a micro-escala. Nuestro invitado en este episodio estudia ¡interacciones! Interacciones entre proteínas, microorganismos e insectos. El día de hoy hablamos con el bioquímico y Dr. en Biología Molecular guatemalteco Hugo Perdomo. Hugo nos comparte sobre su trabajo con enfermedades tropicales transmitidas por vectores, como Chagas y dengue, y aprendemos un montón de datos curiosos que te dejarán con la boca abierta. ¿Podríamos engañar y matar mosquitos con nuestra propia sangre? ¿Virus propios de los mosquitos? Hugo nos recuerda, además, la importancia del trabajo colaborativo, el networking y el atrevernos a escalar en la vida (literal y figurativamente). ¡No te lo pierdas!
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4aUvVVkmRSi3aPHYhkieD4?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
