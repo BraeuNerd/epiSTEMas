@@ -29,7 +29,10 @@ A veces en el camino de STEM nos podemos encontrar con dudas, e incluso perderle
 
 - - - - -
 
-Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon, Blinkist y Coursera, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. te suscribes o realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉
+
+<font size = 1.5> <p style = "line-height:1"> 
+(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon, Blinkist y Coursera, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
+</font> </p>
 
 
 Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer)
@@ -41,14 +44,14 @@ Te recomendamos este curso para aprender a programar desde cero: [Programming wi
 
 Libros favoritos del momento de José:  
 
-* Hábitos Atómicos de James Clear  
-* Maestría de Robert Greene
+* [Hábitos Atómicos](https://amzn.to/3mJOpG8) de James Clear  
+* [Maestría](https://amzn.to/3NL793X) de Robert Greene
 
 Libros favoritos del momento de Diane, Kat & Rana:
 
-* Don't Be Such a Scientist de Randy Olson  
-* ¿Está usted de broma, Sr. Feyman? de Richard Feynman  
-* The Subtle Art of Not Giving a Fck de Mark Manson
+* [Don't Be Such a Scientist](https://amzn.to/3xvs3wY) de Randy Olson  
+* [¿Está usted de broma, Sr. Feyman?](https://amzn.to/3mKA1xc) de Richard Feynman  
+* [The Subtle Art of Not Giving a Fck](https://amzn.to/3xQVivu) de Mark Manson
 
 <center>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B07PLNHHDP&asins=B07PLNHHDP&linkId=863fe8cdb973a43ba0affe2942856896&show_border=false&link_opens_in_new_window=true"></iframe>
