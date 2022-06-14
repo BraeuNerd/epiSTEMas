@@ -39,9 +39,9 @@ projects: []
 
 - - - - - 
 
-Encuentra a Ivonne en twitter como @ivonnealdana_gt(https://twitter.com/ivonnealdana_gt)
+Encuentra a Ivonne en twitter como [@ivonnealdana_gt](https://twitter.com/ivonnealdana_gt)
 
-Lee aquí(https://medium.com/@ivonnealdana)  las publicaciones de Ivonne en Medium, como el artículo que nos menciona sobre cómo encontrar trabajo 100% remoto (https://medium.com/@ivonnealdana/sugerencias-para-conseguir-trabajo-100-remoto-db38f113a3ce).
+[Lee aquí](https://medium.com/@ivonnealdana)  las publicaciones de Ivonne en Medium, como [el artículo que nos menciona sobre cómo encontrar trabajo 100% remoto](https://medium.com/@ivonnealdana/sugerencias-para-conseguir-trabajo-100-remoto-db38f113a3ce).
 
 
 - - - - -
@@ -53,13 +53,13 @@ Aquí te dejamos los libros que se mencionaron (¡y recomendamos!) en el episodi
 </font> </p>
 
 
-[Range (Amplitud) de David Epstein](https://amzn.to/3MUhw41)  
+[Range (Amplitud)](https://amzn.to/3MUhw41)  de David Epstein  
 
 
-[Hidden Figures (Talentos Ocultos) de Margot Lee Shetterly](https://amzn.to/3aOD2tI)  
+[Hidden Figures (Talentos Ocultos)](https://amzn.to/3aOD2tI)  de Margot Lee Shetterly    
 
 
-[Mujeres Invisibles de Caroline Criado-Perez](https://amzn.to/3HpEAa2)  
+[Mujeres Invisibles](https://amzn.to/3HpEAa2)  de Caroline Criado-Perez  
 
 
 <center>
