@@ -59,7 +59,7 @@ Aquí te dejamos los libros que se mencionaron (¡y recomendamos!) en el episodi
 [Hidden Figures (Talentos Ocultos)](https://amzn.to/3aOD2tI)  de Margot Lee Shetterly    
 
 
-[Mujeres Invisibles](https://amzn.to/3HpEAa2)  de Caroline Criado-Perez  
+[La Mujer Invisible](https://amzn.to/3HpEAa2)  de Caroline Criado-Perez  
 
 
 <center>
