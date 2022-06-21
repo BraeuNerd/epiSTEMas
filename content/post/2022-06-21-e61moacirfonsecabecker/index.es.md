@@ -1,5 +1,5 @@
 ---
-title: E61 Moacir Fonseca Becker: Ingeniería mecánica y Centroamérica en el espacio
+title: 'E61 Moacir Fonseca Becker: Ingeniería mecánica y Centroamérica en el espacio'
 author: epiSTEMas
 date: '2022-06-21'
 slug: e61moacirfonsecabecker
@@ -40,7 +40,7 @@ Encuéntralo en [Linkedin](https://www.linkedin.com/in/moacirfb/) y en [Instagra
 - - - - -
 
 
-conoce sobre la [Red Aeroespacial Centroamericana](http://www.redespacial.com/), el [Proyecto Morazán](http://www.proyectomorazan.space/), el [Proyecto ADAM](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=10462) y el [proyecto de microgravedad](https://www.unoosa.org/oosa/en/ourwork/psa/hsti/capacity-building/droptes-third-cycle.html).  
+Conoce más sobre la [Red Aeroespacial Centroamericana](http://www.redespacial.com/), el [Proyecto Morazán](http://www.proyectomorazan.space/), el [Proyecto ADAM](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=10462) y el [proyecto de microgravedad](https://www.unoosa.org/oosa/en/ourwork/psa/hsti/capacity-building/droptes-third-cycle.html).  
 
 
 Mira aqui el [vídeo del DropTES](https://www.youtube.com/watch?v=8AM3ntJYVpo&t=21s) __(¡ojo al Lego!)__.   
