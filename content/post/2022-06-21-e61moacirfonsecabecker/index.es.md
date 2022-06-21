@@ -25,7 +25,7 @@ image:
 projects: []
 ---
 
-¿Sabías que la "gravedad cero" no existe? Pero y qué tal ¿la microgravedad aquí en la Tierra? ¿Los satélites centroamericanos? ¿La basura espacial? En este episodio hablamos con el Ingeniero Mecánico Costarricense-Brasileño Moacir Fonseca Becker. De ser un niño muy curioso que un día descubrió el espacio a través de un telescopio, Moa llegó a ser el ingeniero que es hoy - aún muy curioso y multifacético. Pero Moa no solo continúa realizando sus propios sueños espaciales, sino también contribuye a crear oportunidades espaciales para Centro América a través de la Red Aeroespacial Centroamericana. Moa nos comparte cómo llegó a decidir que la Ingeniería Mecánica era lo que lo acercaría al espacio, llevándolo a trabajar en proyectos espaciales en Costa Rica y Alemania, de los cuales aprendemos hoy. Además, nos recuerda que nada ocurre de la noche a la mañana, pero manteniendo nuestra capacidad de asombro e impulsando el trabajo colaborativo ¡llegaremos al espacio! 
+¿Sabías que la "gravedad cero" no existe? Pero y qué tal ¿la microgravedad aquí en la Tierra? ¿Los satélites centroamericanos? ¿La basura espacial? En este episodio hablamos con el Ingeniero Mecánico Costarricense-Brasileño Moacir Fonseca Becker. De ser un niño muy curioso que un día descubrió el espacio a través de un telescopio, Moa llegó a ser el ingeniero que es hoy - aún muy curioso y multifacético. Pero Moa no solo continúa realizando sus propios sueños espaciales, sino también contribuye a crear oportunidades espaciales para Centro América a través de la Red Aeroespacial Centroamericana. Moa nos comparte cómo llegó a decidir que la Ingeniería Mecánica era lo que lo acercaría al espacio, llevándolo a trabajar en proyectos espaciales en Costa Rica y Alemania, de los cuales aprendemos hoy. Además, nos recuerda que nada ocurre de la noche a la mañana, pero manteniendo nuestra capacidad de asombro e impulsando el trabajo colaborativo ¡llegaremos al espacio! No te lo pierdas:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27aBff0q7EpbSRN4NB07V0?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
@@ -43,7 +43,7 @@ Encuéntralo en [Linkedin](https://www.linkedin.com/in/moacirfb/) y en [Instagra
 Conoce más sobre la [Red Aeroespacial Centroamericana](http://www.redespacial.com/), el [Proyecto Morazán](http://www.proyectomorazan.space/), el [Proyecto ADAM](https://isulibrary.isunet.edu/index.php?lvl=notice_display&id=10462) y el [proyecto de microgravedad](https://www.unoosa.org/oosa/en/ourwork/psa/hsti/capacity-building/droptes-third-cycle.html).  
 
 
-Mira aqui el [vídeo del DropTES](https://www.youtube.com/watch?v=8AM3ntJYVpo&t=21s) __(¡ojo al Lego!)__.   
+Mira [aquí el vídeo del DropTES](https://www.youtube.com/watch?v=8AM3ntJYVpo&t=21s) __(¡ojo al Lego!)__.   
 
 
 
@@ -56,13 +56,17 @@ Aquí te dejamos el libro que nos recomienda Moa:
 </font> </p>
 
 
-[The Moral Landscape](https://amzn.to/3tS3WI2)  de Sam Harris  
+[The Moral Landscape](https://amzn.to/3tS3WI2)  de Sam Harris:  
 
 
 <center>
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=de_DE&marketplace=amazon&region=US&placement=1439171211&asins=1439171211&linkId=514d1bab0d79df6543fb6d904996276a&show_border=true&link_opens_in_new_window=true"></iframe>
 </center>
 
+
+- - - - -
+
+**Encuentra [aquí todos nuestros episodios sobre Ciencias Espaciales](https://www.epistemas.com/tag/ciencias-espaciales/)**
 
 - - - - -
 
