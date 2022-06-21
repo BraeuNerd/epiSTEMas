@@ -45,8 +45,9 @@ Conoce más sobre la [Red Aeroespacial Centroamericana](http://www.redespacial.c
 
 Mira aquí el vídeo del DropTES __(¡ojo al Lego!)__ :
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AM3ntJYVpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</center>
 
 
 - - - - -
