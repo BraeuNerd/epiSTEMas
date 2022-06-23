@@ -96,7 +96,7 @@ Como muchos de los invitados e invitadas de epiSTEMas ya han mencionado: es absu
 
 La [Ingeniera en Sistemas y desarrolladora de videojuegos Alhvi Balcárcel](https://www.epistemas.com/post/e15alhvibalcarcel/) también nos comparte de las dudas por las que ella pasó: *"Yo cuando entré a la U dije "voy a ser hacker o a hacer juegos", pero durante la carrera perdí un poco los ánimos porque pensé que no iba a ser posible en Guatemala y que tenía que buscar alguna otra cosa "más real". Tuve mi crisis a media carrera que me quería cambiar a biología, pero al final decidí terminar mi carrera. Tuve varios conflictos porque pensaba que no iba a poder ayudar a la gente con una carrera tan técnica y consideré también cambiarme a algo de ciencias sociales. **Pero al final vi que con la tecnología también se pueden ayudar a las personas, crear herramientas que ayuden a los demás. (...) Luego vi que sí podemos crear videojuegos (educativos o no) desde Guatemala.**”*
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0jbkeEvgt995hGMVcjeRb3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0jbkeEvgt995hGMVcjeRb3?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 ## Visibilicemos**LAS**
