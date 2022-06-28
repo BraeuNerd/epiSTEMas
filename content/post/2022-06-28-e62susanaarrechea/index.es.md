@@ -47,7 +47,7 @@ Lee nuestro blog sobre las [mujeres latinoamericanas en ingeniería y cómo cult
 
 - - - - -
 
-Algunas útiles herramientas que funcionan con energía solar que te recomendamos: 
+Los paneles solares ¡ya están en todo! 
 
 <font size = 1.5> <p style = "line-height:1"> 
 (Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Brilliant, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
