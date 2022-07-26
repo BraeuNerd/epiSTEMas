@@ -56,9 +56,6 @@ Recursos para aprender a programar que mencionamos en el episodio:
 
 Nueva certificación de Meta en Coursera para [Front-End Developer](imp.i384100.net/n1xd2M) y [Back-End Developer](imp.i384100.net/RyqV6v) (en Coursera puedes tomar el curso gratis o pagar si quieres el certificado). 
 
-<center>
-<a id="spzn:KPSzVL9AEeyfhAreTccY9Q" href="https://imp.i384100.net/c/2994553/1242836/14726?prodsku=spzn%3AKPSzVL9AEeyfhAreTccY9Q&u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmeta-front-end-developer&intsrc=PUI2_9419" target="_top"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ed/d25c0d25114924a34754928dbf8273/Front-end-dev-ProCert.png?auto=format,compress" border="0" alt=""/></a> <a id="spzn:XbrUuL9AEeyRUA73PlX3yQ" href="https://imp.i384100.net/c/2994553/1242836/14726?prodsku=spzn%3AXbrUuL9AEeyRUA73PlX3yQ&u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmeta-back-end-developer&intsrc=PUI2_9419" target="_top"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1e/d2f5a0dc494722980faf74d9fa8fc8/Back-end-dev-ProCert.jpg?auto=format,compress" border="0" alt=""/></a>
-</center>
 
 
 - - - - -
