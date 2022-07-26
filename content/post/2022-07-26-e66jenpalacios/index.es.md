@@ -48,7 +48,7 @@ El libro que nos recomendó Jen: "[Cuatro mil semanas: gestión del tiempo para 
 
 - - - - -
 
-Recursos para aprender a programar que mencionamos en el episodio: 
+Recursos para aprender a programar: 
 
 (Gratis) [freeCodeCamp](https://www.freecodecamp.org/)  
 
