@@ -5,9 +5,7 @@ output:
     orientation: rows
     vertical_layout: fill
     theme: bootstrap
-
 runtime: shiny
-    
 ---
 
 ```{css}
@@ -27,7 +25,6 @@ library(rnaturalearth) # for maps
 library(sp) # for maps
 library(plotly)
 library(viridis)
-library(highcharter)
 
 
 streams <- read_csv("data/EpistemasStreams.csv")
@@ -52,9 +49,11 @@ edad <- read_csv("data/EpistemasEdad.csv")
 Audiencia
 =======================================================================
 
-Actualizado el 29 de julio 2022
+Row {data-height=10}
+-----------------------------------------------------------------------
+### **Última actualización de datos realizada el el 29 de julio 2022**.
 
-Row {data-height=100}
+Row 
 -----------------------------------------------------------------------
 
 ### Seguidores en Spotify {.value-box}
@@ -352,9 +351,6 @@ Column
 
 ```{r}
 
-fluidPage(
-  dateInput("date1", "Date:", value = "2022-04-27")
-  )
 
 streams$hover <- with(streams, paste("Escuchas", '<br>',
                                      "Spotify", streamsSpot, "<br>",
