@@ -53,7 +53,7 @@ title: epiSTEMas
 
 **En epiSTEMas contribuimos a cambiar los dañinos estereotipos que hay alrededor de las carreras y profesionales en STEM. Entrevistamos a profesionales de STEM hispanohablantes sobre su vida personal y las diversas trayectorias en STEM; sus investigaciones y aplicaciones; y qué consejos le darían a su "yo" de 17 años.**  
 
-Contribuimos a crear una cultura de curiosidad y aprendizaje en la región, traer a profesionales de STEM hispanohablantes al frente y romper la idea de que sólo en el Norte Global se hace ciencia, inspirar a jóvenes a seguir carreras en STEM y a que todos les demos el valor que merecen. 
+Con cada episodio contribuimos a crear una cultura de curiosidad y aprendizaje en la región, traemos a profesionales de STEM hispanohablantes al frente y rompemos la vieja idea de que sólo en el Norte Global se hace ciencia. Al final del día, esperamos inspirar a jóvenes a seguir carreras en STEM y a que todas las personas les demos el valor que merecen. 
 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
