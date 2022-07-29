@@ -1,0 +1,446 @@
+---
+title: "EpiSTEMas Media Kit"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: fill
+    theme: bootstrap
+
+runtime: shiny
+    
+---
+
+```{css}
+
+
+```
+
+
+
+```{r global, include=FALSE}
+
+library(flexdashboard)
+library(tidyverse)
+library(treemap)
+library(leaflet) # for maps
+library(rnaturalearth) # for maps
+library(sp) # for maps
+library(plotly)
+library(viridis)
+library(highcharter)
+
+
+streams <- read_csv("data/EpistemasStreams.csv")
+streams$date <- as.Date(streams$date, "%d-%m-%y")
+
+guests <- read_csv("data/EpistemasGuests.csv")
+guests$pregrado <- as.factor(guests$pregrado)
+guests$stem <- as.factor(guests$stem)
+guests$nacionalidad <- as.factor(guests$nacionalidad)
+
+streams_paises <- read_csv("data/EpistemasPaisStr.csv")
+
+redes <- read_csv("data/EpistemasRedes.csv")
+
+gen <- read_csv("data/EpistemasGenero.csv")
+
+edad <- read_csv("data/EpistemasEdad.csv")
+
+
+```
+
+Audiencia
+=======================================================================
+
+Actualizado el 29 de julio 2022
+
+Row {data-height=100}
+-----------------------------------------------------------------------
+
+### Seguidores en Spotify {.value-box}
+
+```{r}
+
+renderValueBox ({
+  valueBox(
+    value = redes[1, 2],
+    icon = "fa-spotify",
+    color = "#1db954")
+})
+
+```
+
+### Sitio Web Visitas/mes {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[12, 2],
+    icon = "fa-link",
+    color = "#f5dd3a")
+})
+
+
+```
+
+### Suscripciones a nuestro boletín {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[2, 2],
+    icon = "fa-newspaper-o",
+    color = "#6bcbe3")
+})
+
+
+```
+
+### Instagram Seguidores (Engagement%) {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[4, 2],
+    icon = "fa-instagram",
+    color = "#E4405F")
+})
+
+
+```
+
+### Facebook Seguidores (Engagement%) {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[7, 2],
+    icon = "fa-facebook",
+    color = "#1877F2")
+})
+
+
+```
+
+### Twitter {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[10, 2],
+    icon = "fa-twitter",
+    color = "#1DA1F2")
+})
+
+
+```
+
+### LinkedIn {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[11, 2],
+    icon = "fa-linkedin",
+    color = "#0A66C2")
+})
+
+
+```
+
+Row {data-height=500}
+-----------------------------------------------------------------------
+
+### Desde dónde nos escuchan:
+
+```{r}
+
+streams_paises %>%
+  filter(Total>20) %>%
+  mutate(Pais = fct_reorder(Pais, Total)) %>%
+  arrange(desc(Total)) %>%
+  plot_ly(y = ~Pais, 
+          x = ~Total, 
+          color = ~Pais, 
+          type = "bar", 
+          colors = c("#f5dd3a","#6bcbe3"),
+          showlegend = F,
+          orientation = "h") %>%
+  layout(title = list(text = "(Mostrando paises en donde nos han escuchado >20X)", 
+                      font = list(size = 12)),
+         xaxis = list(title = "No. Descargas"),
+         yaxis = list(title = " "))
+
+```
+
+Row {data-height=300}
+-----------------------------------------------------------------------
+
+### Desde dónde nos han escuchado (mapa) {.no-padding .no-mobile}
+
+```{r}
+
+# light grey boundaries
+#l <- list(color = toRGB("grey"), width = 0.5)
+
+#text on hover
+streams_paises$hover <- with(streams_paises, paste(Pais, '<br>',
+                                                   "Spotify", Spotify, "<br>",
+                                                   "Otras plataformas", Ivoox))
+  
+# specify map projection/options
+g <- list(
+  showland = T,
+  landcolor = toRGB("grey70"),
+#  showocean = T,
+#  oceancolor = toRGB("LightBlue"),
+  showlakes = T,
+  lakecolor = toRGB("LightBlue"),
+  showframe = F,
+  showcoastlines = T,
+  showcountries = T,
+  resolution = 10,
+  projection = list(type = 'natural earth')
+#  projection = list(type = 'orthographic')
+#  projection = list(type = 'winkel tripel')
+)
+
+map <- plot_geo(streams_paises,
+        type = "choropleth",
+        locations = streams_paises$code,
+        z = streams_paises$Total,
+        text = streams_paises$hover,
+        showscale = F,
+        colors = c("#f5dd3a","#6bcbe3")) %>%
+  layout(geo=g) 
+
+renderPlotly(map)
+
+```
+
+### Quiénes nos escuchan: Edades
+
+```{r}
+
+edad$hover <- with(edad, paste(Porcentaje, '% de quienes nos escuchan <br> tienen entre', `Rango Edad`, 'años'))
+
+plot_ly(data = edad,
+        y = ~Porcentaje,
+        x = ~`Rango Edad`,
+        type = "bar",
+        text = ~hover,
+        marker = list(color = "#6bcbe3",
+                      line = list(color = "#986538",
+                      width = 1.5))) %>%
+  layout(xaxis = list(title = "Edades"),
+         yaxis = list(title = "%"))
+
+
+```
+
+### Quiénes nos escuchan: Género
+
+```{r}
+
+gen$hover <- with(gen, paste(Porcentaje, '% de quienes nos escuchan <br> se identifican como', `Género`))
+
+plot_ly(data = gen,
+        y = ~Porcentaje,
+        x = ~`Género`,
+        type = "bar",
+        text = ~hover,
+        marker = list(color = "f5dd3a",
+                      line = list(color = "#986538",
+                      width = 1.5))) %>%
+  layout(xaxis = list(title = "Género"),
+         yaxis = list(title = "%"))
+
+
+
+```
+
+
+Descargas e invitados
+=======================================================================
+
+Column {data-width=150}
+-----------------------------------------------------------------------
+
+### Seguidores en Spotify {.value-box}
+
+```{r}
+
+renderValueBox ({
+  valueBox(
+    value = redes[1, 2],
+    icon = "fa-spotify",
+    color = "#1db954")
+})
+
+```
+
+### Suscripciones a nuestro boletín {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[2, 2],
+    icon = "fa-newspaper-o",
+    color = "#6bcbe3")
+})
+
+
+```
+
+### Instagram {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[3, 2],
+    icon = "fa-instagram",
+    color = "#E4405F")
+})
+
+
+```
+
+### Facebook {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[4, 2],
+    icon = "fa-facebook",
+    color = "#1877F2")
+})
+
+
+```
+
+### Twitter {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[5, 2],
+    icon = "fa-twitter",
+    color = "#1DA1F2")
+})
+
+
+```
+
+### LinkedIn {.value-box}
+
+```{r}
+renderValueBox ({
+  valueBox(
+    value = redes[6, 2],
+    icon = "fa-linkedin",
+    color = "#0A66C2")
+})
+
+
+```
+
+
+Column
+-----------------------------------------------------------------------
+
+### Episodios
+
+```{r}
+
+fluidPage(
+  dateInput("date1", "Date:", value = "2022-04-27")
+  )
+
+streams$hover <- with(streams, paste("Escuchas", '<br>',
+                                     "Spotify", streamsSpot, "<br>",
+                                     "Otras plataformas", ivoox))
+
+streams %>%
+  mutate(StreamsTot = streamsSpot + ivoox,
+         cums = cumsum(StreamsTot)) %>%
+  plot_ly(x = ~date,
+          y = ~StreamsTot,
+          type = "scatter",
+          mode = "lines",
+          text = ~hover,
+          name = "Descargas diarias",
+          line = list(color = "#6bcbe3",
+                      width = 2)) %>%
+  add_trace(x = ~date,
+          y = ~cums,
+          type = "scatter",
+          mode = "lines",
+          name = "Descargas acumuladas",
+          yaxis = "y2",
+          line = list(color = "#986538",
+                      width = 1,
+                      dash = "dot")) %>%
+  layout(xaxis = list(title = "Fecha"),
+         yaxis = list(tickfont = list(color = "#6bcbe3"),
+                      title = "Descargas diarias"),
+         yaxis2 = list(tickfont = list(color="#986538"),
+                       overlaying = "y",
+                       side = "right",
+                       title = "Descargas acumuladas")) %>%
+    layout(xaxis = list(
+            zerolinecolor = 'ffff',
+            zerolinewidth = 2,
+            gridcolor = 'ffff'),
+          yaxis = list(
+            zerolinecolor = '#ffff',
+            zerolinewidth = 2,
+            gridcolor = 'ffff')
+          )
+
+
+```
+
+
+### Temas 
+
+```{r}
+
+treestem <-  guests %>%
+  group_by(stem, pregrado) %>%
+  summarize(n = n(),
+            prop = (n/66)*100)
+
+labels <- treestem$pregrado
+parents <-  treestem$stem
+values <- treestem$n
+
+fig <- treemap(
+  treestem, 
+  index = c("stem","pregrado"),
+  vSize = "n"
+)
+
+plot_ly(
+    data = treestem,
+    labels = labels,
+    parents = parents,
+    values = values,
+    type='sunburst')
+
+
+#    ggplot(aes(area = n, fill = stem, subgroup = stem, subgroup2 = pregrado, label = pregrado)) +
+#    geom_treemap(start = "topleft", layout = "srow") +
+#    geom_treemap_subgroup2_border(color = "#171717", size = 1, start = "topleft", layout = "srow") +
+#    geom_treemap_subgroup_border(color = "#171717", size = 2, start = "topleft", layout = "srow") +
+#    geom_treemap_subgroup_text(color = "#000000", alpha = 0.1, angle = 30, grow=T, place = "center", fontface="italic", start = "topleft", layout = "srow") +
+#    geom_treemap_subgroup2_text(color = "#000000", alpha = 0.7, size = 12, reflow=T, place = "center", fontface="bold", start = "topleft", layout = "srow") +
+#    scale_fill_manual(values = c("#f5dd3a", "#986538", "#f5dd3a", "#6bcbe3"))
+
+#  theme(legend.position = "none",
+#        plot.background = element_rect(fill = "#000000"))
+
+#ggplotly(treestem)
+
+```
+
+

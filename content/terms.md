@@ -15,7 +15,7 @@ This page provides the details about the person responsible of this site as requ
 
 María Renée Braeuner – Sole Proprietor/Kleinunternehmer
 
-An der Halde 22a  
+An der Halde  
 
 86807 Buchloe  
 
