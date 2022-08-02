@@ -25,7 +25,7 @@ image:
 projects: []
 ---
 
-¿Cómo se estudia el sol? O...¿por qué alguien estudiaría el sol? En este episodio hablamos con el Doctor en Astrofísica colombiano Santiago Vargas Domínguez, un apasionado de la astronomía, la comunicación, y especializado en estudiar nuestro Sol (Heliofísica). Acompáñanos a conocer historias del cosmos: clima espacial, el ilógico problema del calentamiento de la corona solar y viajes en el tiempo con ¡telescopios! Y conocer la perspectiva de un Astrofísico sobre las nuevas imágenes del James Webb y la importancia de la comunicación científica. ¡No te lo pierdas!
+¿Cómo se estudia el sol? Y...¿por qué alguien estudiaría el sol? En este episodio hablamos con el Doctor en Astrofísica colombiano Santiago Vargas Domínguez, un apasionado de la astronomía, la comunicación, y especializado en estudiar nuestro Sol (Heliofísica). Acompáñanos a conocer historias del cosmos: clima espacial, el ilógico problema del calentamiento de la corona solar y viajes en el tiempo con ¡telescopios! Y conocer la perspectiva de un Astrofísico sobre las nuevas imágenes del James Webb y la importancia de la comunicación científica. ¡No te lo pierdas!
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2rg7CcjC5VhqdmfOZQ9Ks1?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
