@@ -1,6 +1,5 @@
 ---
 title: "EpiSTEMas Media Kit"
-output: html 
 output:
   flexdashboard::flex_dashboard:
     orientation: rows
