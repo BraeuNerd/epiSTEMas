@@ -47,6 +47,9 @@ ui <- fluidPage(
   setBackgroundColor(color = "black"),
   useShinydashboard(),
 
+  ## modify valueBoxes CSS
+  tags$style(".small-box {height: 65px; "),
+  tags$style(".fa { font-size: 35px; "),
   tags$style(".small-box.bg-green { background-color: #1db954 !important; color: #000000 !important; }"),
   tags$style(".small-box.bg-purple { background-color: #872ec4 !important; color: #000000 !important; }"),
   tags$style(".small-box.bg-fuchsia { background-color: #E4405F !important; color: #000000 !important; }"),
@@ -55,17 +58,22 @@ ui <- fluidPage(
   tags$style(".small-box.bg-light-blue { background-color: #1DA1F2 !important; color: #000000 !important; }"),
   tags$style(".small-box.bg-yellow { background-color: #6bcbe3 !important; color: #000000 !important; }"),
   tags$style(".small-box.bg-navy { background-color: #0A66C2 !important; color: #000000 !important; }"),
-  tags$style(HTML(".fa-spotify { font-size: 50px; }")),
-  tags$style(HTML(".fa-headphones { font-size: 50px; }")),
-  tags$style(HTML(".fa-link { font-size: 50px; }")),
-  tags$style(HTML(".fa-newspaper { font-size: 50px; }")),
-  tags$style(HTML(".fa-instagram { font-size: 50px; }")),
-  tags$style(HTML(".fa-facebook { font-size: 50px; }")),
-  tags$style(HTML(".fa-twitter { font-size: 50px; }")),
-  tags$style(HTML(".fa-linkedin { font-size: 50px; }")),
+  tags$style(HTML(".fa-spotify { font-size: 20px; }")),
+  tags$style(HTML(".fa-headphones { font-size: 20px; }")),
+  tags$style(HTML(".fa-link { font-size: 20px; }")),
+  tags$style(HTML(".fa-newspaper { font-size: 20px; }")),
+  tags$style(HTML(".fa-instagram { font-size: 20px; }")),
+  tags$style(HTML(".fa-facebook { font-size: 20px; }")),
+  tags$style(HTML(".fa-twitter { font-size: 20px; }")),
+  tags$style(HTML(".fa-linkedin { font-size: 20px; }")),
   tags$style("h2, p { color: #ffffff; }"),
   tags$style("h5 { color: #656565; }"),
   tags$style("text {font-size: 25px; color: #242526;}"),
+
+  ## modify dashboard's skin color
+  tags$style(".nav-tabs-custom {background-color: #006272}"),
+  tags$style(".col-sm- {background-color: #006272}"),
+
   
   
   fluidRow(
@@ -130,7 +138,7 @@ ui <- fluidPage(
   
   fluidRow(
     tabBox(width = 12,
-           tabPanel("Quienes nos escuchan",
+           tabPanel(tags$text("Quienes nos escuchan", style = "background-color: #006272"),
                     fluidRow(
                       column(7,
                              fluidRow(
@@ -144,7 +152,7 @@ ui <- fluidPage(
                              ))
                     )
            ),
-           tabPanel("Descargas & Contenido",
+           tabPanel(tags$text("Descargas & Contenido"),
                     fluidRow(
                       column(12,
                              fluidRow(

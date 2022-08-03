@@ -5,7 +5,7 @@ output:
     orientation: rows
     vertical_layout: fill
     theme: bootstrap
-runtime: shiny
+
 ---
 
 ```{css}
@@ -14,6 +14,7 @@ runtime: shiny
 ```
 
 
+is this it?
 
 ```{r global, include=FALSE}
 
@@ -443,266 +444,33 @@ plot_ly(
 
 ```{r}
 
-world_spdf <- readOGR( 
-  dsn= paste0(getwd(),"/content/shinydash/data/world_shape_file") , 
-  layer="TM_WORLD_BORDERS_SIMPL-0.3",
-  verbose=FALSE
-)
+#world_spdf <- readOGR( 
+#  dsn= paste0(getwd(),"/content/shinydash/data/world_shape_file") , 
+#  layer="TM_WORLD_BORDERS_SIMPL-0.3",
+#  verbose=FALSE
+#)
 
-world_spdf@data$POP2005[ which(world_spdf@data$POP2005 == 0)] = NA
-world_spdf@data$POP2005 <- as.numeric(as.character(world_spdf@data$POP2005)) / 1000000 %>% round(2)
+#world_spdf@data$POP2005[ which(world_spdf@data$POP2005 == 0)] = NA
+#world_spdf@data$POP2005 <- as.numeric(as.character(world_spdf@data$POP2005)) / 1000000 %>% round(2)
 
-library(maps)
-library(leaflet)
-
-
-
-worldmap <- map("world", fill=T, plot=F)
-leaflet(worldmap) %>%
-  addTiles() %>%
-  addPolygons(fillColor = "grey70", stroke=F) %>%
-  addPolygons()
+#library(maps)
+#library(leaflet)
 
 
-leaflet(world_spdf) %>%
-  setView(lat = 14.4, lng = -91.11, zoom = 2) %>%
-  addTiles() %>%
-  addPolygons(stroke = F, fillOpacity = 0.5, color = ~colorQuantile("YlOrRd", POP2005)(POP2005))
+
+#worldmap <- map("world", fill=T, plot=F)
+#leaflet(worldmap) %>%
+#  addTiles() %>%
+#  addPolygons(fillColor = "grey70", stroke=F) %>%
+#  addPolygons()
+
+
+#leaflet(world_spdf) %>%
+# setView(lat = 14.4, lng = -91.11, zoom = 2) %>%
+#  addTiles() %>%
+#  addPolygons(stroke = F, fillOpacity = 0.5, color = ~colorQuantile("YlOrRd", POP2005)(POP2005))
 
 
 
 ```
 
-
-dashboard:
-
-
-library(shiny)
-library(shinydashboard)
-library(shinyWidgets)
-library(tidyverse)
-library(treemap)
-library(rnaturalearth) # for maps
-library(plotly)
-
-# LOAD DATA ---
-
-streams <- read_csv("data/EpistemasStreams.csv")
-streams$date <- as.Date(streams$date, "%d-%m-%y")
-
-guests <- read_csv("data/EpistemasGuests.csv")
-guests$pregrado <- as.factor(guests$pregrado)
-guests$stem <- as.factor(guests$stem)
-guests$nacionalidad <- as.factor(guests$nacionalidad)
-
-streams_paises <- read_csv("data/EpistemasPaisStr.csv")
-
-streams_paises <- streams_paises %>%
-  mutate(Total = Spotify+Ivoox)
-
-descargaspais <- streams_paises %>%
-  filter(Total>20) %>%
-  mutate(Pais = fct_reorder(Pais, Total)) %>%
-  arrange(desc(Total)) %>%
-  plot_ly(y = ~Pais, 
-          x = ~Total, 
-          color = ~Pais, 
-          type = "bar", 
-          colors = c("#f5dd3a","#6bcbe3"),
-          showlegend = F,
-          orientation = "h") %>%
-  layout(title = list(text = "(Mostrando paises en donde nos han escuchado >20X)", 
-                      font = list(size = 12)),
-         xaxis = list(title = "No. Descargas"),
-         yaxis = list(title = " "))
-
-redes <- read_csv("data/EpistemasRedes.csv")
-
-gen <- read_csv("data/EpistemasGenero.csv")
-
-edad <- read_csv("data/EpistemasEdad.csv")
-
-# Define UI --------------------------
-
-
-ui <- dashboardPage(
-  dashboardHeader(title = "Epistemas Media Kit"),
-  
-  dashboardSidebar(
-    sidebarPanel(
-      img(src = "epiSTEMas_Logo.png", height = 50, width = 50),
-                  h1("seriously")
-                )),
-  dashboardBody(
-    fluidRow(
-    valueBoxOutput("spotify_box", width=2),
-    valueBoxOutput("insta", width=2),
-    valueBoxOutput("facebook", width=2),
-    valueBoxOutput("twitter", width=2),
-    valueBoxOutput("sitioweb", width=2),
-    valueBoxOutput("boletin", width=2),
-
-    valueBoxOutput("otraspod", width=2),
-    valueBoxOutput("instareach", width=2),
-    valueBoxOutput("facebookreach", width=2),
-    valueBoxOutput("linkedin", width=2),
-    plotOutput("edad")
-#    fluidRow(
-#      box(plotOutput("descargas_pais", height = 400)
-#      ),
-#      fluidRow(
-#        box("Some text to try", br(), "what?!", 
-#            plotOutput("edad"),
-#            background = "black",
-#            height = 600)))
-  )
-))
-
-
-
-
-# Server component -------------------
-
-server <- function(input, output){
-  
-  output$spotify_box <- renderValueBox ({
-    valueBox(
-      value = redes[1, 2],
-      subtitle = "Seguidores en Spotify",
-      icon = icon("spotify"),
-      color = "green")
-  })
-  
-  output$otraspod <- renderValueBox ({
-    valueBox(
-      value = sum(26+2+19),
-      subtitle = "Otras plataformas de podcasts",
-      icon = icon("spotify"),
-      color = "purple")
-  })
-  
-  output$insta <- renderValueBox ({
-    valueBox(
-      value = redes[4, 2],
-      subtitle = "Seguidores Instagram (engagement %)",
-      icon = icon("instagram"),
-      color = "fuchsia")
-  })
-  
-  output$instareach <- renderValueBox ({
-    valueBox(
-      value = redes[6, 2],
-      subtitle = "Alcance del mes anterior (cuentas de Instagram)",
-      icon = icon("instagram"),
-      color = "fuchsia")
-  })
-
-  output$sitioweb <- renderValueBox ({
-    valueBox(
-      value = redes[12, 2],
-      subtitle = "Visitas/mes al sitio web",
-      icon = icon("link"),
-      color = "aqua")
-  })
-  
-  output$boletin <- renderValueBox ({
-    valueBox(
-      value = redes[2, 2],
-      subtitle = "Suscripciones al boletin (open rate %)",
-      icon = icon("newspaper"),
-      color = "yellow")
-  })
-  
-  
-  output$facebook <- renderValueBox ({
-    valueBox(
-      value = redes[7, 2],
-      subtitle = "Seguidores en Facebook",
-      icon = icon("facebook"),
-      color = "blue")
-  })
-  
-  output$facebookreach <- renderValueBox ({
-    valueBox(
-      value = redes[9, 2],
-      subtitle = "Alcance del mes anterior (cuentas Facebook)",
-      icon = icon("facebook"),
-      color = "blue")
-  })
-  
-  
-
-  output$twitter <- renderValueBox ({
-    valueBox(
-      value = redes[10, 2],
-      subtitle = "Seguidores en Twitter",
-      icon = icon("twitter"),
-      color = "light-blue")
-  })
-  
-  
-  output$linkedin <- renderValueBox ({
-    valueBox(
-      value = redes[11, 2],
-      subtitle = "Seguidores en LinkedIn",
-      icon = icon("linkedin"),
-      color = "navy")
-  })
-  
-
-  output$descargas_pais <- renderPlot({ 
-    descargaspais
-  })
-  
-  output$descargas_mapa <- renderPlot({
-    #text on hover
-    streams_paises$hover <- with(streams_paises, paste(Pais, '<br>',
-                                                       "Spotify", Spotify, "<br>",
-                                                       "Otras plataformas", Ivoox))
-    # specify map projection/options
-    g <- list(
-      showland = T,
-      landcolor = toRGB("grey70"),
-      #  showocean = T,
-      #  oceancolor = toRGB("LightBlue"),
-      showlakes = T,
-      lakecolor = toRGB("LightBlue"),
-      showframe = F,
-      showcoastlines = T,
-      showcountries = T,
-      resolution = 10,
-      projection = list(type = 'natural earth')
-      #  projection = list(type = 'orthographic')
-      #  projection = list(type = 'winkel tripel')
-    )
-    
-    map <- plot_geo(streams_paises,
-                    type = "choropleth",
-                    locations = streams_paises$code,
-                    z = streams_paises$Total,
-                    text = streams_paises$hover,
-                    showscale = F,
-                    colors = c("#f5dd3a","#6bcbe3")) %>%
-      layout(geo=g) 
-    map
-  })
-  
-  output$edad <- renderPlot({
-    plot_ly(data = edad,
-            y = ~Porcentaje,
-            x = ~`Rango Edad`,
-            type = "bar",
-            marker = list(color = "#6bcbe3",
-                          line = list(color = "#986538",
-                                      width = 1.5))) %>%
-      layout(xaxis = list(title = "Edades"),
-             yaxis = list(title = "%"))
-    
-  })
-
-}
-
-
-# Call shinyApp ----------------------
-
-shinyApp(ui = ui, server = server)
