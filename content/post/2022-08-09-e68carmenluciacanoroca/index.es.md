@@ -1,5 +1,5 @@
 ---
-title: '068 Carmen Lucía Cano Roca: Ingeniería y microbiología en ciencias de los
+title: 'E68 Carmen Lucía Cano Roca: Ingeniería y microbiología en ciencias de los
   alimentos'
 author: EpiSTEMas
 date: '2022-08-09'
@@ -46,7 +46,7 @@ Encuentra más información sobre la Salmonella [en la página del CDC aquí](ht
 </font> </p>
 
 
-Y si como Carmen a tí también te gusta cultivar el hábito de la lectura, te dejamos aquí algunas de nuestras recomendaciones de libros de no-ficción sobre la microbiología y los descubrimientos que han cambiado nuestra vida (enlaces de afiliadas):  
+Y si como Carmen a tí también te gusta cultivar el hábito de la lectura, te dejamos aquí algunas de nuestras recomendaciones de libros de no-ficción sobre la microbiología y los descubrimientos que han cambiado nuestra vida:  
 
 
 1) ["Extra Life: A Short History of Living Longer"](https://amzn.to/3Qae6wP) de Steven Johnson   
