@@ -66,7 +66,7 @@ Y si como a Rodrigo a tí también te gusta cultivar el hábito de la lectura, t
 
 
 
-3) [Obras](https://amzn.to/3QsUMuK) de Sor Juana Inés de la Cruz    
+3) [Poemas y Sonetos](https://amzn.to/3plg41l) de Sor Juana Inés de la Cruz    
 
 
 <center>
@@ -74,7 +74,7 @@ Y si como a Rodrigo a tí también te gusta cultivar el hábito de la lectura, t
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=9681612116&asins=9681612116&linkId=ccba1d5d6331b68bae71072b01ad5c16&show_border=true&link_opens_in_new_window=true"></iframe>
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=8498163382&asins=8498163382&linkId=bd77ff32c611f1be68bc8e86d733d0fa&show_border=true&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=1539713601&asins=1539713601&linkId=0568d344335122e86717808ce333ea4e&show_border=true&link_opens_in_new_window=true"></iframe>
 
 </center>
 
