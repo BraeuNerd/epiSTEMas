@@ -29,6 +29,7 @@ projects: []
 
 <iframe src="https://open.spotify.com/embed/episode/4250JcOqmk9Khq8GJccveA" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+- - - - -
 
 Encuentra a Alina en instagram como:
 
@@ -36,12 +37,37 @@ Encuentra a Alina en instagram como:
 
 Y [@book_wormgt](https://www.instagram.com/book_wormgt/)
 
-Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
+- - - - -
 
-Y sigue a epiSTEMas en:
+<font size = 1.5> <p style = "line-height:1"> 
+(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí, nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
+</font> </p>
+
+
+Y si como a Alina a tí también te gusta cultivar el hábito de la lectura, te dejamos aquí un libro que te recomendamos relacionado a este episodio y un descuentito que puedes obtener con nuestro enlace de Blinkist:
+
+
+1) ["The Book of Hope"](https://amzn.to/3Qv6jJS) de Jane Goodall   
+
+<center>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=0241479460&asins=0241479460&linkId=fc5d5867da065fc5f10d21b98b4317cf&show_border=true&link_opens_in_new_window=true"></iframe>
+</center>
+
+
+¿Prefieres audiolibros? Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer).  
+
+- - - - -
+
+Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
+
+
+<a href="https://blinkist.o6eiov.net/c/2994553/815678/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Dpaid%26utm_campaign%3D%7Birpid%7D%26utm_source%3DImpact%26utm_term%3D%7Biradname%7D%26utm_content%3D%7Bircid%7D" target="_top" id="815678"><img src="//a.impactradius-go.com/display-ad/10732-815678" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/815678/10732?subId1=EpiSTEMas" style="position:absolute;visibility:hidden;" border="0" />
+
