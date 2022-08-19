@@ -35,8 +35,10 @@ Encuentra a [Isa y sus desayunos aquí](https://www.instagram.com/breakfast0cloc
 - - - - -
 
 <font size = 1.5> <p style = "line-height:1"> 
-(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Brilliant, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
+(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon, Coursera y Brilliant, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
 </font> </p>
+
+Te recomendamos esta certificación de Ciencias de Datos (puedes tomarlo gratuito o pagar por el certificado): [Data Science IBM](https://imp.i384100.net/ZdARqz).
 
 <font size="3"> 
 [Obtén un 20% de descuento](https://brilliant.sjv.io/c/2994553/1003358/12858?subId1=EpiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F) en tu primera suscripción anual a Brilliant </font>
