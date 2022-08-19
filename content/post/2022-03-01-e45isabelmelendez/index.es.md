@@ -41,6 +41,7 @@ Encuentra a [Isa y sus desayunos aquí](https://www.instagram.com/breakfast0cloc
 Te recomendamos esta certificación de Ciencias de Datos (puedes tomarlo gratuito o pagar por el certificado): [Data Science IBM](https://imp.i384100.net/ZdARqz).
 
 <font size="3"> 
+
 [Obtén un 20% de descuento](https://brilliant.sjv.io/c/2994553/1003358/12858?subId1=EpiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F) en tu primera suscripción anual a Brilliant </font>
 
 
