@@ -54,7 +54,7 @@ Recursos para aprender a programar:
 
 [TeamTreeHouse](https://teamtreehouse.com/)  
 
-Nueva certificación de Meta en Coursera para [Front-End Developer](imp.i384100.net/n1xd2M) y [Back-End Developer](imp.i384100.net/RyqV6v) (en Coursera puedes tomar el curso gratis o pagar si quieres el certificado). 
+Nueva certificación de Meta en Coursera para [Front-End Developer](https://imp.i384100.net/oe9Boo) y [Back-End Developer](https://imp.i384100.net/15NVZD) (en Coursera puedes tomar el curso gratis o pagar si quieres el certificado). 
 
 
 
