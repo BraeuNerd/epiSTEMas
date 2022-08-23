@@ -1,5 +1,5 @@
 ---
-title: 'E70 Cristina Domínguez: ingeniería civil y electrificación sostenible'
+title: 'E70 Cristina Dominguez: ingeniería civil y electrificación sostenible'
 author: EpiSTEMas
 date: '2022-08-23'
 slug: 070cristinadominguezher
@@ -26,7 +26,7 @@ projects: []
 ---
 
 
-Energía undimotriz, solar, y miniredes de energía. La relación entre ingenierías y ciencias sociales. La aceptación de la tecnología. ¿Cómo podemos estimar cuánta energía empleará una comunidad? Si eres como nosotras, quizá también imaginabas la construcción de casas, puentes, y edificios como “las tareas” de la Ingeniería Civil. Pero esta rama de la ingeniería, ¡no se limita sólo a la construcción! En este episodio hablamos con la Ingeniera Civil y Dra. en Ingenería Mecánica y de Procesos guatemalteca, Cristina Domínguez. Cristina nos cuenta cómo dentro de la Ingenería fue descubriendo el área que le interesaba y que mejor le podía ayudar a alcanzar sus sueños, llevándola eventualmente de la Ingeniería Civil a la investigación y búsqueda de soluciones para que la electricidad llegue a todas las personas - de manera sostenible. ¡No te lo pierdas!
+Energía undimotriz, solar, y miniredes de energía. La relación entre ingenierías y ciencias sociales. La aceptación de la tecnología. ¿Cómo podemos estimar cuánta energía empleará una comunidad? Si eres como nosotras, quizá también imaginabas la construcción de casas, puentes, y edificios como “las tareas” de la Ingeniería Civil. Pero esta rama de la ingeniería, ¡no se limita sólo a la construcción! En este episodio hablamos con la Ingeniera Civil y Dra. en Ingenería Mecánica y de Procesos guatemalteca, Cristina Dominguez. Cristina nos cuenta cómo dentro de la Ingenería fue descubriendo el área que le interesaba y que mejor le podía ayudar a alcanzar sus sueños, llevándola eventualmente de la Ingeniería Civil a la investigación y búsqueda de soluciones para que la electricidad llegue a todas las personas - de manera sostenible. ¡No te lo pierdas!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6bXefnyZG30eSbUlXc6zAK?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
