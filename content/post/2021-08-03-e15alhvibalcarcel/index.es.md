@@ -38,6 +38,10 @@ Encuentra a Alhvi en twitter como [@Alhvi](https://twitter.com/alhvi?lang=en) y 
 
 - - - - -
 
+En agosto del 2022, la empresa de Alhvi lanzó su juego Illuminaria en donde controlas un enjambre de robots para administrar recursos ¡y salvar el planeta! [Consíguelo aquí](https://store.steampowered.com/app/1719240/Illuminaria/).
+
+- - - - -
+
 <font size = 1.5> <p style = "line-height:1"> 
 (Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Brilliant, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
 </font> </p>
