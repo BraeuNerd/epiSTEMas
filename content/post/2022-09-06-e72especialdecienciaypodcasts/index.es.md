@@ -38,9 +38,13 @@ Por si te quedaste con ganas de escuchar nuestras recomendaciones, te dejamos aq
 </font> </p>
 
 
-- El libro que mencionó la Rana "La paradoja de la democracia"(https://amzn.to/3AUkXUD) 
+- El libro que mencionó la Rana: ["La paradoja de la democracia"](https://amzn.to/3AUkXUD) 
+
+<center>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=B09XJ993NP&asins=B09XJ993NP&linkId=844f5486b9875ea92a7b068b482b680d&show_border=true&link_opens_in_new_window=true"></iframe>
+
+</center>
 
 
 - [Radio Ocote](https://open.spotify.com/show/4nTgVMT75IJm1GgCOI32uA)
