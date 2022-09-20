@@ -37,8 +37,9 @@ Ecología urbana. Filosofía de la ciencia. ¡Y otro cienciacional podcast de ci
 
 Te dejamos aquí las imágenes que nos compartieron sobre la elección del nombre de Historias Cienciacionales:
 
-{{< figure src="https://github.com/BraeuNerd/epiSTEMas/tree/main/static/Historias_Cienciacionales_nombre.jpg">}}
-{{< figure src="https://github.com/BraeuNerd/epiSTEMas/tree/main/static/Historias_Cienciacionales_nombresss.jpg">}}
+![Historias Cienciacionales 1](/assets/media/Historias_Cienciacionales_nombresss.jpg)
+
+![Historias Cienciacionales 2](/static/Historias_Cienciacionales_nombre.jpg)
 
 
 - - - - -
