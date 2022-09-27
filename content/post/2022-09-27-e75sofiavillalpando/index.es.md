@@ -23,7 +23,6 @@ image:
 projects: []
 ---
 
-
 Animalitos y plantitas: Tortugas, planarias, y ¿granjas de cadáveres? En este episodio, y para finalizar nuestro especial de _podcasts de ciencia_ de septiembre, hablamos con Sofía Villalpando: bióloga, comunicadora científica y creadora de contenido mexicana. La primera YouTuber de ciencia mexicana que lleva ya más de una década enseñándonos de biología y otras curiosidades de la ciencia en el mundo digital a través de The Biologist Apprentice en redes sociales, YouTube, ¡y el podcast “Animalitos y Plantitas”! ¿Cómo fue iniciar en el mundo de la creación de contenido antes de que esto fuera lo que es hoy? ¿Qué la inspiró a compartir la ciencia con los demás? ¡No te lo pierdas!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7IlnQVbEZPZMlrhQnw4zYW?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
