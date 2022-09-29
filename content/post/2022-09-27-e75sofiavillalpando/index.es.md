@@ -11,6 +11,7 @@ tags:
   - Científicas mexicanas
   - Comunicación
   - Divulgación
+  - Podcasts de ciencia
 subtitle: ''
 summary: ''
 authors: []

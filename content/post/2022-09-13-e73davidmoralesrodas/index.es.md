@@ -11,6 +11,7 @@ tags:
   - Científicos guatemaltecos
   - Divulgación
   - Farmacología Experimental
+  - Podcasts de ciencia
 subtitle: ''
 summary: ''
 authors: []

@@ -13,6 +13,7 @@ tags:
   - Científicos mexicanos
   - Comunicación
   - Divulgación
+  - Podcasts de ciencia
 subtitle: ''
 summary: ''
 authors: []
