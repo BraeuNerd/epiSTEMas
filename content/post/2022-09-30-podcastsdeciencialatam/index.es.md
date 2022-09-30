@@ -34,27 +34,33 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
 
 1. Obvio...¡EpiSTEMas!
   + **País:** Guatemala 🇬🇹 
-  + Formato: entrevistas y ocasionalmente episodios especiales de conversación entre las anfitrionas
-  ++ Temas: STEM y la vida detrás de los profesionales en STEM, más allá de *su ciencia*
+  + **Formato:** entrevistas y los ocasionales episodios especiales de conversación entre las anfitrionas
+  + **Temas:** STEM y la vida detrás de los profesionales en STEM, más allá de *su ciencia*
   
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/30VFz9wUtAY5ohwJZoFge4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 2. [Divulga](https://www.epistemas.com/post/e73davidmoralesrodas/)
-  + País: 🇬🇹
-  + Formato: entrevistas
-  + Temas: STEM
+  + **País:** Guatemala 🇬🇹
+  + **Formato:** entrevistas
+  + **Temas:** STEM
+  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BLZWTHUGwpX8goaxw4fdJ?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 3. [Historias Cienciacionales](https://www.epistemas.com/post/e74historiascienciacionales/)
-  + País: 🇲🇽
-  + Formato: conversación y entrevistas
-  + Temas: Ciencias
+  + **País:** México 🇲🇽
+  + **Formato:** conversación y entrevistas
+  + **Temas:** Ciencias
+  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0p25yMx9PdHT90eG1Sijab?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 4. [Animalitos y Plantitas](https://www.epistemas.com/post/e75sofiavillalpando/)
-  + País: 🇲🇽
-  + Formato: narrativo
-  + Temas: Biología 
+  + **País:** México 🇲🇽
+  + **Formato:** narrativo
+  + **Temas:** Biología 
+  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7IlnQVbEZPZMlrhQnw4zYW?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ###  Los podcasts que personas como tú nos han enviado y recomendado:
 
