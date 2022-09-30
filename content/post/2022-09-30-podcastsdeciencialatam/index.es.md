@@ -33,9 +33,9 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
 ### Podcasts cuya historia "detrás del podcast" puedes conocer en episodios de EpiSTEMas:
 
 1. Obvio...¡EpiSTEMas!
-  + País: 🇬🇹
-  + Formato: entrevistas y ocasionalmente episodios especiales de conversación entre las anfitrionas
-  + Temas: STEM y la vida detrás de los profesionales en STEM, más allá de *su ciencia*
+  ++ *País:* Guatemala 🇬🇹 
+  ++ Formato: entrevistas y ocasionalmente episodios especiales de conversación entre las anfitrionas
+  ++ Temas: STEM y la vida detrás de los profesionales en STEM, más allá de *su ciencia*
   
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/30VFz9wUtAY5ohwJZoFge4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
