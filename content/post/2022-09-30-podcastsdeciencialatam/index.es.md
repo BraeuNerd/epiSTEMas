@@ -35,7 +35,7 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
 1. Obvio...¡EpiSTEMas!
   + **País:** Guatemala 🇬🇹 
   + **Formato:** entrevistas y los ocasionales episodios especiales de conversación entre las anfitrionas
-  + **Temas:** STEM y la vida detrás de los profesionales en STEM, más allá de *su ciencia*
+  + **Temas:** STEM y la vida detrás de los profesionales en STEM de América Latina, más allá de *su ciencia*
   
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/30VFz9wUtAY5ohwJZoFge4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -45,7 +45,7 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
   + **Formato:** entrevistas
   + **Temas:** STEM
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BLZWTHUGwpX8goaxw4fdJ?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BLZWTHUGwpX8goaxw4fdJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 3. [Historias Cienciacionales](https://www.epistemas.com/post/e74historiascienciacionales/)
@@ -53,14 +53,14 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
   + **Formato:** conversación y entrevistas
   + **Temas:** Ciencias
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0p25yMx9PdHT90eG1Sijab?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0p25yMx9PdHT90eG1Sijab?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 4. [Animalitos y Plantitas](https://www.epistemas.com/post/e75sofiavillalpando/)
   + **País:** México 🇲🇽
   + **Formato:** narrativo
   + **Temas:** Biología 
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7IlnQVbEZPZMlrhQnw4zYW?utm_source=generator&theme=0" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7IlnQVbEZPZMlrhQnw4zYW?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ###  Los podcasts que personas como tú nos han enviado y recomendado:
 
@@ -78,7 +78,9 @@ Por si te lo perdiste, durante el mes de septiembre desde EpiSTEMas estuvimos co
 
 11. [Ondas de choque](https://open.spotify.com/show/23TjAGcXE0ZuJa0HcoRnHk?si=a0d39df6bdec4885) 🇨🇱
 
-12. ¡Aquí puede ir tu podcast!
+12. [De Otro Planeta](https://open.spotify.com/show/68keYIws0D2Hjssu70UXIZ?si=9126c44005134a95) 🇨🇱
+
+13. ¡Aquí puede ir tu podcast!
 
 
 No olvides enviarnos tus recomendaciones para seguir creciendo esta lista y apoyando estas increíbles y necesarias iniciativas 😉
