@@ -27,7 +27,7 @@ image:
 projects: []
 ---
 
-Jaguares. Guacamayas. Tecnología satelital. Concesiones forestales. Y...¿Calvin Klein? Nuestro invitado del día de hoy ha estado fascinado por la ciencia desde pequeño gracias a influencias de familiares, de profesores, y enciclopedias. En este episodio conocemos la historia detrás del biólogo guatemalteco y director del programa en Guatemala de la Wildlife Conservation Society Rony García-Anleu. Conocemos cómo Rony llegó a la biología, su relación con la tecnología, y fascinantes historias de sus 20 años de vivir y trabajar en la selva petenera. ¡No te lo pierdas!
+Jaguares. Guacamayas. Tecnología satelital. Concesiones forestales. Y...¿Calvin Klein? Nuestro invitado del día de hoy ha estado fascinado por la ciencia desde pequeño gracias a influencias de familiares, de profesores, y enciclopedias. En este episodio conocemos la historia detrás del biólogo guatemalteco y director del Departamento de Investigaciones Biol[ogicas del programa en Guatemala de la Wildlife Conservation Society (WCS) Rony García-Anleu. Conocemos cómo Rony llegó a la biología, su relación con la tecnología, y fascinantes historias de sus 20 años de vivir y trabajar en la selva petenera. ¡No te lo pierdas!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/65W1PBu8vW6q8D6uON2oJw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
