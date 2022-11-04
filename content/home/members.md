@@ -9,7 +9,6 @@ design:
   columns: "2"
 ---
 
-¡El podcast epiSTEMas es parte de la [Red Latinoamericana de Cultura Científica](https://redlcc.org/about/) desde enero 2022!
+¡El podcast epiSTEMas es parte de la selección oficial de [Podcastinación 2022](https://www.podcastinacion.com/)!
 
-[![RedLCC](redlcc.png)](https://redlcc.org/about/)
-
+[![Podcastinación](podcastinacion.png)](https://www.podcastinacion.com/)
