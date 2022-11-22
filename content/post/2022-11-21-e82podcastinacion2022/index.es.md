@@ -1,5 +1,5 @@
 ---
-title: 'E82 MashUp: EpiSTEMas & Huevos Revueltos con Política ¡en Podcastinación 2022!'
+title: 'E82 MashUp: EpiSTEMas y Huevos Revueltos con Política ¡en Podcastinación 2022!'
 author: EpiSTEMas
 date: '2022-11-21'
 slug: e82podcastinacion2022
