@@ -50,7 +50,7 @@ Y encuentra a AcercaCiencia en: [Twitter](https://twitter.com/acercaciencia), [I
 - - - - -
 
 <font size = 1.5> <p style = "line-height:1"> 
-(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí, nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
+(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Brilliant, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí, nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
 </font> </p>
 
 <font size="3"> 
