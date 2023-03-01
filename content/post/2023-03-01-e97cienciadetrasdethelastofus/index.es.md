@@ -1,7 +1,7 @@
 ---
 title: E97 La ciencia detrás de The Last of Us con AloZombie
 author: EpiSTEMas
-date: '2023-03-01'
+date: '2023-02-28'
 slug: e97CienciaDetrasDeTheLastOfUs
 categories:
   - Comunicación
