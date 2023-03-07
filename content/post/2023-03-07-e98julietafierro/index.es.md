@@ -41,7 +41,7 @@ Disfruta [aquí la clase virtual de Astronomía General](https://cursa.app/en/fr
 
 Mira aquí la colaboración de Julieta con Netflix sobre la serie Dark:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/eQZiFQq5c7E" title="Teorías científicas en Dark explicadas por Julieta Fierro (parte 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/eQZiFQq5c7E" title="Teorías científicas en Dark explicadas por Julieta Fierro (parte 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 - - - - -
