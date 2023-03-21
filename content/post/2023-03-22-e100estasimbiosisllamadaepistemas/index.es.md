@@ -1,7 +1,7 @@
 ---
 title: 'E100: Esta simbiosis llamada EpiSTEMas'
 author: EpiSTEMas
-date: '2023-03-22'
+date: '2023-03-21'
 slug: e100EstaSimbiosisLlamadaEpiSTEMas
 categories:
   - Comunicación
