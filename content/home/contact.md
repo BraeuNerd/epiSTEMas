@@ -24,6 +24,10 @@ subtitle: ¿Conoces a alguien a quien deberíamos entrevistar? ¿Quieres ser par
 #      captcha: true
   
 design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
   columns: '2'
 ---
 

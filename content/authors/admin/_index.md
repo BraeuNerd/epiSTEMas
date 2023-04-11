@@ -30,6 +30,9 @@ social:
 - icon: spotify
   icon_pack: fab
   link: https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg
+- icon: youtube
+  icon_pack: fab
+  link: 'https://www.youtube.com/@epistemaspodcast/'
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -48,12 +51,10 @@ superuser: true
 title: epiSTEMas
 ---
 
-**La ciencia y la tecnología** - herramientas clave para el desarrollo - no pueden estar fuera del alcance de todos los demás sectores de la sociedad.
+**La ciencia y la tecnología** - herramientas clave para el desarrollo - no pueden estar fuera del alcance de todos los demás sectores de la sociedad. **En epiSTEMas te acercamos a las increíbles historias de profesionales en STEM del mundo hispanohablante** y nos divertimos en el proceso. ¡Y queremos que te diviertas y aprendas con nosotras! 
 
+Con cada episodio contribuimos a crear una cultura de curiosidad y aprendizaje en la región y rompemos la vieja idea de que sólo en el Norte Global se hace ciencia. Al final del día, esperamos inspirar a jóvenes a seguir carreras en STEM; recordarles a todas las personas que sin importar la edad debemos seguir cultivando nuestra curiosidad y no perder nuestra capacidad de asombro; y soñamos con una América Latina que valore las STEM y su aporte a nuestro día a día. 
 
-**En epiSTEMas contribuimos a cambiar los dañinos estereotipos que hay alrededor de las carreras y profesionales en STEM. Entrevistamos a profesionales de STEM hispanohablantes sobre su vida personal y las diversas trayectorias en STEM; sus investigaciones y aplicaciones; y qué consejos le darían a su "yo" de 17 años.**  
-
-Con cada episodio contribuimos a crear una cultura de curiosidad y aprendizaje en la región, traemos a profesionales de STEM hispanohablantes al frente y rompemos la vieja idea de que sólo en el Norte Global se hace ciencia. Al final del día, esperamos inspirar a jóvenes a seguir carreras en STEM y a que todas las personas les demos el valor que merecen. 
 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/30VFz9wUtAY5ohwJZoFge4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

@@ -45,4 +45,10 @@ design:
   #   4 = Citation (publication only)
   view: 2
   
+design:
+  background:
+    color: "#171717"
+    text_color_light: true
+
+  
 ---

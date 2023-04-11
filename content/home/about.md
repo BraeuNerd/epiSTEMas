@@ -18,4 +18,11 @@ title: "Rompiendo estereotipos en STEM"
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---

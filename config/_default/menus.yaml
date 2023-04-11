@@ -10,18 +10,18 @@ main:
   - name: Episodios
     url: '#posts'
     weight: 30
-  - name: Recomendaciones
-    url: '#slider'
-    weight: 35
-  - name: Noticias
+#  - name: Recomendaciones
+#    url: '#slider'
+#    weight: 35
+  - name: Noticias y blog
     url: '#featured'
     weight: 40
   - name: Anfitrionas
     url: '#projects'
     weight: 50
-  - name: Comunidades
-    url: '#members'
-    weight: 60
+#  - name: Comunidades
+#    url: '#members'
+#    weight: 60
   - name: Temas
     url: '#tags'
     weight: 70

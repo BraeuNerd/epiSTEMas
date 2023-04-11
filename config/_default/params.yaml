@@ -4,15 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+theme_day: epistemascol
 theme_night: epistemascol
-day_night: true
+day_night: false
 font: epistemasfont
 font_size: M
 
 # SEO
 
 site_type: Project
-local_business_type: ''
+local_business_type: 'Podcast'
 org_name: 'EpiSTEMas Podcast'
 description: 'Podcast de ciencia y tecnología en español'
 twitter: 'epiSTEMas_Pod'
@@ -41,6 +42,10 @@ contact_links:
     icon_pack: fab
     name: Escúchanos y síguenos en Spotify
     link: 'https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg'
+  - icon: youtube
+    icon_pack: fab
+    name: Escúchanos y síguenos en YouTube
+    link: 'https://www.youtube.com/@epistemaspodcast/'
   - icon: twitter
     icon_pack: fab
     name: Contáctanos por Twitter
@@ -67,7 +72,7 @@ main_menu:
   align: c
   show_logo: true
   show_language: true
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -75,7 +80,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en
+address_format: es
 
 # Site features
 
