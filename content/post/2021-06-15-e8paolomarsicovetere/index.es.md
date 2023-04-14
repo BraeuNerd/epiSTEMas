@@ -19,6 +19,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 La física está presente en nuestra vida cotidiana, pero ¿alguna vez te has puesto a pensar en la posible relación de la física con las ciencias sociales? En este episodio el físico guatemalteco Paolo Marsicovétere nos comparte cómo la física puede ser una herramienta para abordar y solucionar temas de importancia social y de esta forma contribuir al desarrollo de Guatemala. Además, aprendemos acerca de la importancia de la multidisciplinariedad, el ser autodidacta y el nunca limitar nuestra imaginación, porque sí, por muy loco que suene...¡todo está relacionado y la ciencia nos ayuda a entenderlo! Así que ¿quieres saber que tienen en común partículas, células, una manada de coyotes y la distribución del crimen? ¡Acompáñanos a descubrirlo en este episodio!

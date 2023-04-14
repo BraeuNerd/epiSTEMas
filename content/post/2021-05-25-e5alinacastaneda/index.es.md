@@ -23,6 +23,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 ¿Qué opinión tienes de los zoológicos? ¿Qué tan diferentes son los zoológicos nacionales de los internacionales? ¡¿A los animales les dan desayunos personalizados?! En este episodio platicamos con Alina Castañeda, bióloga guatemalteca. Acompáñanos a aprender acerca de la importancia de los zoológicos, escuchar los momentos favoritos de Alina trabajando con primates y perezosos, y cómo los profesores y catedráticos pueden influir e inspirarte a encontrar tu pasión...porque ¡así es como ella llegó a la Biología! Para Alina la pasión que encontró en la biología es tan fuerte que superar algunas barreras de los viajes de campo no fueron más que un "pequeño inconveniente"; pero más allá de la zoología, la vida la llevó a descubrir su otra pasión: ¡la docencia! Acompáñanos a aprender más sobre su amor a enseñar, a aprender (¡y a los libros!), y disfruta escuchar en el fondo a Wilson, nuestro primer invitado perruno.

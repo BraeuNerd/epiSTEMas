@@ -22,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 Como para muchas personas en Guatemala, poder observar a un quetzal en vivo es una de las actividades turísticas más intrigantes. La primera vez que Juan Pablo Pinto, ingeniero ambiental guatemalteco, visitó la Reserva Natural Privada Ranchitos del Quetzal en Baja Verapaz, terminó tomándose un café que transformó su vida. Esperando poder observar un quetzal, terminó conociendo el mundo de las orquídeas, el lugar en el que más adelante trabajaría por varios años, y la reserva que le llevó a aprender y poner en práctica herramientas para la conservación. Acompáñanos en este episodio a conocer cómo del protocolo de rescate de bichos en casa que su mamá tenía cuando era niño llegó a trabajar hoy para la conservación de los bosques nubosos de Guatemala y querer motivar a más personas a conservar.

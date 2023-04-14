@@ -22,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 ¿Te han dicho alguna vez que deberías tener sueños "más realistas"? En este episodio la Ingeniera Mecatrónica guatemalteca Cecilia Marsicovétere, quien lideró uno de los módulos del primer satélite guatemalteco (Quetzal-1), nos comparte sobre el momento en el que aprendió a escuchar a las personas indicadas, cuando, contrario a lo que le habían hecho creer antes, le hicieron ver que sus sueños sí se podían alcanzar y que siempre vale la pena preguntarnos: "¿por qué no?". Un episodio lleno de valiosas lecciones de vida, en especial para esos momentos en los que no sabemos si estamos tomando las decisiones correctas. Aprendamos de Ceci para también poner nuestros sueños en órbita. Además, aquí aprenderás también la receta para crear un "económico" satélite (¡no intentes esto en casa!).   

@@ -22,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 De ser una niña muy hiperactiva a convertirse en una Ingeniera sintiéndose como niña mientras observaba ¡astronautas en la Estación Espacial Internacional! En este episodio, la Ingeniera Electrónica guatemalteca, Wendy Miranda, nos cuenta su historia y cómo de su amor por las matemáticas y la búsqueda de soluciones la llevaron a especializarse en telecomunicaciones, especialmente, comunicación aeroespacial. ¿Cómo funciona esta tecnología que a diario utilizamos - el wifi? ¿Cómo es que logramos escuchar lo invisible, comunicarnos y conectarnos? Además, Wendy nos comparte su amor por el arte, la ciencia, el espacio, y a siempre disfrutar nuestra vida haciendo lo que más nos apasione. 

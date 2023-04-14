@@ -21,6 +21,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 A veces tanto ruido nos lleva a tomar desvíos en la vida, pero cualquier momento puede ser "el momento indicado" para retomar el camino que nuestra intuición nos pide. En este episodio el biólogo guatemalteco Sergio González, quien actualmente se encuentra en Francia realizando una maestría en Biología Evolutiva, nos cuenta los desvíos y enderezados que ha tomado su vida y las mil razones que lo llevaron a estudiar biología (aunque tal parece que desde niño ya lo hacía). Documentales de naturaleza, series de criminología, los barrancos, los volcanes, y el importante papel de la familia en las experiencias tempranas. Además, aprendemos sobre qué son los sistemas agroforestales, servicios ecosistémicos, y por qué es siempre importante tener una linterna en el bolsillo. ¡Acompáñanos en este interesante y divertido episodio!

@@ -23,6 +23,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 Cuando aparecen situaciones "negativas" o inesperadas, utilizarlas como oportunidades no siempre es fácil. Sin embargo, Kat ha sabido aprovechar y crear oportunidades a partir de los problemas que se han presentado en su camino. Tan así, que hoy está también abriendo puertas y nuevas oportunidades para generaciones venideras. En este episodio, la científica guatemalteca Katherinne Herrera nos cuenta acerca de sus múltiples y variados intereses: microbiología y control de calidad, ciencias espaciales, arañas y comunicación científica, resaltando la importancia de la educación en STEM desde la infancia. 

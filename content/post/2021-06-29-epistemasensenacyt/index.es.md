@@ -18,6 +18,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 Agradecemos a la Secretaría Nacional de Ciencia y Tecnología (SENACYT) del Gobierno de Guatemala por la invitación que nos hicieron a epiSTEMas. **[En este episodio](https://www.facebook.com/senacytgt/posts/2167937146679200/)** del podcast de la SENACYT, "Ciencia al servicio de la sociedad", platicamos un poco más sobre los orígenes de epiSTEMas y sobre nosotras sus anfitrionas. 

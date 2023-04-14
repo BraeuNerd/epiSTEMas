@@ -21,6 +21,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 De maestra de párvulos a...¿investigadora? El sueño de ser diseñadora de modas se transformó y la llevó a encontrar la ciencia, un mundo antes desconocido para ella. En este episodio conocemos más a Verónica Castro-Aceituno, investigadora guatemalteca que nos comparte una historia que se sale de lo convencional (en muchas inesperadas maneras). Una carrera en nutrición, su curiosidad y creatividad - y algunas barreras en el camino - la llevaron a Asia del Este a estudiar medicina oriental enfocada en tratamientos del cáncer. ¿Cómo llegó a ser la investigadora que es hoy en día? ¿Quiénes son las mujeres que la han inspirado en el camino? ¿De dónde salen las mejores ideas? Acompáñanos en este episodio lleno de inspiración y en donde derribamos muchos estereotipos que aún hoy predominan en la sociedad.

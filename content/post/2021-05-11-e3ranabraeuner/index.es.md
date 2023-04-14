@@ -21,6 +21,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 ¿Qué pasa si juntamos a una pequeña de 9 años con ganas de hacer galletas, una mamá ocupada y un papá con muchos trucos bajo la manga? ¡La búsqueda de la galleta perfecta a través de un experimento multivariado! En este episodio platicamos con María (Rana) Braeuner, bióloga apasionada por el estudio de los cuerpos de agua y la comunicación científica. ¿Cómo pasó de experimentos en casa a la Limnología? ¿Cómo fue tomar su amor por la lectura y el arte para convertir lo teórico en práctico? Acompáñanos en este episodio y aprendamos sobre la importancia de nunca dejar de aprender, el trabajo multidisciplinario y...¡comunicar ciencia!
