@@ -6,12 +6,12 @@ slug: e4juliomatute
 categories:
   - Bioquímica y Microbiología
 tags:
-  - Bioquímica
-  - Biotecnología
-  - Emprendedurismo
-  - Ingeniería Genética
-  - Tecnología
-  - Científicos guatemaltecos
+  - bioquímica
+  - microbiología
+  - biotecnología
+  - emprendedurismo
+  - ingeniería genética
+  - científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []
@@ -47,4 +47,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
-[YouTube](https://www.youtube.com/@epistemaspodcast)
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

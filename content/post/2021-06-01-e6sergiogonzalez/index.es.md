@@ -6,11 +6,11 @@ slug: e6sergiogonzalez
 categories:
   - Biología
 tags:
-  - Biología
-  - Conservación
-  - Evolución
-  - Servicios Ecosistémicos
-  - Científicos guatemaltecos
+  - biología
+  - conservación
+  - evolución
+  - servicios ecosistémicos
+  - científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []
@@ -25,29 +25,13 @@ projects: []
 
 A veces tanto ruido nos lleva a tomar desvíos en la vida, pero cualquier momento puede ser "el momento indicado" para retomar el camino que nuestra intuición nos pide. En este episodio el biólogo guatemalteco Sergio González, quien actualmente se encuentra en Francia realizando una maestría en Biología Evolutiva, nos cuenta los desvíos y enderezados que ha tomado su vida y las mil razones que lo llevaron a estudiar biología (aunque tal parece que desde niño ya lo hacía). Documentales de naturaleza, series de criminología, los barrancos, los volcanes, y el importante papel de la familia en las experiencias tempranas. Además, aprendemos sobre qué son los sistemas agroforestales, servicios ecosistémicos, y por qué es siempre importante tener una linterna en el bolsillo. ¡Acompáñanos en este interesante y divertido episodio!
 
-<iframe src="https://open.spotify.com/embed/episode/2dQiBdk1VyXDKrKf1ODNPT" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2dQiBdk1VyXDKrKf1ODNPT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - - - - -
 
 Encuentra a Sergio en [Twitter aquí](https://twitter.com/BioloComunista?s=20)
 
 y en [Instagram](https://www.instagram.com/sergiogm93/)
-
-- - - - -
-
-
-<font size = 1.5> <p style = "line-height:1"> 
-(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí, nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
-</font> </p>
-
-<font size="3"> 
-
-[Obtén un 20% de descuento](https://brilliant.sjv.io/c/2994553/1003358/12858?subId1=EpiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F) en tu primera suscripción anual a Brilliant </font>
-
-
-<a href="https://brilliant.sjv.io/c/2994553/1003364/12858?subId1=epiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Daffiliates%26utm_campaign%3D%7Birpid%7D%26utm_source%3D%7Bmp_value1%7D%26utm_content%3D%7Btimestamp%7D_%7Biradtype%7D_%7Biradname%7D%26utm_term%3D%7Bmp_value2%7D" target="_top" id="1003364"><img src="//a.impactradius-go.com/display-ad/12858-1003364" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/1003364/12858?subId1=epiSTEMas" style="position:absolute;visibility:hidden;" border="1" />
-
-
 
 - - - - -
 
@@ -61,3 +45,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

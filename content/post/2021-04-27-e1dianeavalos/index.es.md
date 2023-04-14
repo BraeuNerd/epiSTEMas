@@ -58,4 +58,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
-[YouTube](https://www.youtube.com/@epistemaspodcast)
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
