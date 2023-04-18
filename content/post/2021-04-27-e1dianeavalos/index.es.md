@@ -9,7 +9,7 @@ tags:
   - bioquímica
   - microbiología
   - control biológico
-  - Comunicación científica
+  - comunicación científica
   - científicas guatemaltecas
   - Mujeres en STEM
 subtitle: ''
