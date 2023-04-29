@@ -7,7 +7,7 @@ categories:
   - Biología
 tags:
   - biología
-  - docencia
+  - educación
   - zoológicos
   - vida silvestre
   - conservación

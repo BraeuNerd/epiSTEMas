@@ -6,14 +6,14 @@ slug: e28fridaruh
 categories:
   - Ciencia de Datos
 tags:
-  - Actuaría
-  - Ciencia de datos
-  - Inteligencia Artificial
-  - Matemáticas
-  - Estadística
-  - Tecnología
-  - Científicas mexicanas
-  - STEM
+  - actuaría
+  - ciencia de datos
+  - inteligencia artificial
+  - matemáticas
+  - estadística
+  - tecnología
+  - científicas mexicanas
+  - Mujeres en STEM
 subtitle: ''
 summary: ''
 authors: []
@@ -24,12 +24,18 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 
 Inteligencia artificial. A veces puede parecer ciencia ficción, pero es una realidad que nos acompaña en nuestro día a día. Pero ¿qué es realmente? ¿cómo podemos utilizarla a nuestro favor? ¿por qué es importante entenderla? En este episodio, hablamos con la actuaria y científica de datos mexicana, Frida Ruh. Y no, la actuaría no tiene nada que ver con la actuación. Frida nos cuenta cómo de un enorme placer por estudiar y comprender el mundo que la rodea, fue construyendo su propio camino hacia la ciencia de datos e inteligencia artificial, y sobre el trabajo que hoy hace para que tú también puedas aprender a utilizar esta tecnología en tus áreas de expertís. Además, nos comparte muchos ejemplos y aplicaciones de esta rama que te van a hacer ver las cosas de una manera totalmente diferente. Algoritmos, huellas digitales de canciones y la pregunta que todos tenemos: la inteligencia artificial…¿nos va a dejar sin trabajo?
 
-<iframe src="https://open.spotify.com/embed/episode/1W6kjbebqGI7vjMR4F5wJj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1W6kjbebqGI7vjMR4F5wJj?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 - - - - -
@@ -41,12 +47,14 @@ Puedes encontrar a Frida en redes sociales como [@fridaruh](https://twitter.com/
 
 - - - - -
 
-Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
-
-Y sigue a epiSTEMas en:
+Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
+
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

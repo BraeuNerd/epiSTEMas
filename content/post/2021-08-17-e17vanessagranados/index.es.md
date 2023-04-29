@@ -9,6 +9,7 @@ tags:
   - bioética
   - veterinaria
   - científicas guatemaltecas
+  - educación
   - Mujeres en STEM
 subtitle: ''
 summary: ''
