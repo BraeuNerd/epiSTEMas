@@ -10,7 +10,6 @@ tags:
   - evolución
   - COVID
   - SARS-CoV-2
-  - biología humana
   - biotecnología
   - científicas guatemaltecas
   - Mujeres en STEM

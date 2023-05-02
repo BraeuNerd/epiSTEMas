@@ -11,7 +11,7 @@ tags:
   - conservación
   - turismo sostenible
   - vida silvestre
-  - emprendedurismo
+  - emprendimiento
 subtitle: ''
 summary: ''
 authors: []

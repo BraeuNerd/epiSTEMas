@@ -7,7 +7,6 @@ categories:
   - Biología
 tags:
   - biología
-  - salud humana
   - ciencias ambientales
   - científicos guatemaltecos
 subtitle: ''

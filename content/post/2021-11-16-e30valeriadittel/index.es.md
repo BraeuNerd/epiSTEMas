@@ -11,6 +11,7 @@ tags:
   - ciencias espaciales
   - científicas costarricenses
   - Mujeres en STEM
+  - emprendimiento
 subtitle: ''
 summary: ''
 authors: []

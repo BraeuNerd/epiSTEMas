@@ -6,14 +6,12 @@ slug: e49gabrielaasturias
 categories:
   - Neurociencias
 tags:
-  - salud humana
-  - Biología humana
-  - Científicas guatemaltecas
+  - biología humana
+  - científicas guatemaltecas
   - COVID
-  - Emprendedurismo
-  - Medicina
-  - Tecnología
-  - salud mental
+  - emprendimiento
+  - ciencias médicas
+  - tecnología
   - neurociencias
 subtitle: ''
 summary: ''
@@ -25,11 +23,17 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 Si has pasado la pandemia en Guatemala de seguro conoces a ALMA: la Asistente de Logística Médica Automatizada que responde las dudas de los guatemaltecos acerca de COVID-19. Pero ¿cómo empezó esta iniciativa? En este episodio hablamos con la neurocientífica, estudiante de medicina y emprendedora guatemalteca Gabriela Asturias, quien fue reconocida en el 2020 por el MIT como una de las 35 jóvenes innovadoras menores de 35 años. Gaby nos comparte cómo su incansable curiosidad y sus ganas de conocer y entender las distintas formas de pensar de las personas la llevaron a probar muchos sombreros profesionales hasta inesperadamente encontrar la psiquiatría. Acompáñanos a conocer qué la llevó a estudiar neurociencias y medicina, y cómo hoy gracias a su pasión por encontrar soluciones y al trabajo en equipo, forma parte de muchas organizaciones, emprendimientos e iniciativas que combinan ciencia, salud y tecnología. ¿Cómo decide alguien con miedo a la sangre estudiar medicina? ¡¿Cómo funciona ALMA?! ¡No te lo pierdas!
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2gRNtm6yhjt7XFB6u1okO5?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2gRNtm6yhjt7XFB6u1okO5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - - - - -
 
@@ -61,13 +65,14 @@ Y si quieres, puedes compartirnos los recursos que tú conoces en tu región o p
 
 - - - - -
 
-Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
-
-Y sigue a epiSTEMas en:
+Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
 
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
+
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

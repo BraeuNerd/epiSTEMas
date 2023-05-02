@@ -9,7 +9,7 @@ tags:
   - ingeniería
   - ingeniería aeroespacial
   - ciencias espaciales
-  - emprendedurismo
+  - emprendimiento
   - científicos ecuatorianos
   - educación
 subtitle: ''

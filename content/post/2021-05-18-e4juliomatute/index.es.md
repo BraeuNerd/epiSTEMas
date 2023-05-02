@@ -9,7 +9,7 @@ tags:
   - bioquímica
   - microbiología
   - biotecnología
-  - emprendedurismo
+  - emprendimiento
   - ingeniería genética
   - científicos guatemaltecos
 subtitle: ''

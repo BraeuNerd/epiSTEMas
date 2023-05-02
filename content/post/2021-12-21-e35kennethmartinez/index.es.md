@@ -7,7 +7,7 @@ categories:
   - Tecnología
 tags:
   - tecnología
-  - emprendedurismo
+  - emprendimiento
   - científicos guatemaltecos
 subtitle: ''
 summary: ''
