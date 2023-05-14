@@ -6,14 +6,14 @@ slug: e54raquelalvaradolarios
 categories:
   - Biología
 tags:
-  - Biología
-  - Chiroptera
-  - Científicas salvadoreñas
-  - Comportamiento Animal
+  - biología
   - mastozoología
-  - murciélagos
+  - chiropterología
   - zoología
-  - Museos
+  - científicas salvadoreñas
+  - comportamiento animal
+  - museos
+  - Mujeres en STEM
 subtitle: ''
 summary: ''
 authors: []
@@ -24,11 +24,16 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
 ---
 
 Todos estamos familiarizados con las colecciones: de monedas, de postales, de estampitas... pero ¿y las colecciones biológicas? Aunque no lo creas, ¡esas también las conoces! En este episodio conoceremos más del trabajo detrás de la administración de las colecciones de un museo de historia natural de la mano de la bióloga y candidata doctoral salvadoreña, Raquel Alvarado Larios. Conocemos cómo estudiar biología la llevó a trabajar con murciélagos y educación, ¡hasta llegar a ser la administradora del Museo de Historia Natural de El Salvador! Acompáñanos mientras aprendemos más del valor de los museos y el trabajo detrás de ellos. Además, ¿qué podemos aprender de los murciélagos para nuestras propias vidas? ¡No te lo pierdas!
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7LjZnzNaNV3TePOdgIEQPV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7LjZnzNaNV3TePOdgIEQPV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - - - - -
 
@@ -50,13 +55,14 @@ Los artículos prometidos durante el episodio:
 
 - - - - -
 
-Recuerda [suscribirte a nuestro boletín semanal aquí](http://eepurl.com/hyEnr1)
-
-Y sigue a epiSTEMas en:
+Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
 [Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos una Opinión en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
 
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
+
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
