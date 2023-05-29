@@ -27,7 +27,7 @@ design:
   background:
     color: "#000000"
     text_color_light: true
-
+    
 ---
 
 Habías pensado alguna vez…¿cómo es el ambiente dentro del testículo de un sapo? ¿O si todos los espermatozoides del mundo animal se ven igual? En este episodio hablamos con la Dra. en ciencias biológicas y espermatóloga mexicana-argentina Emma O’Brien. Emma nos comparte cómo llegó a la biología, y cómo de un interés inicial por la biología marina terminó trabajando con biología molecular ¡y espermatozoides! Algo que continúa haciendo hoy día. Acompáñanos a conocer más sobre los espermatozoides en el mundo animal, cómo se mejoran las técnicas de estudio y criopreservación, y cómo esto nos puede ayudar en la conservación. Quiescencia. Simulación de testículos. Espermatozoides. Criopreservación. ¡Y AcercaCiencia! ¡No te lo pierdas!

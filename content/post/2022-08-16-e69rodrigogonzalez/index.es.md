@@ -9,14 +9,9 @@ tags:
   - biología
   - microbiología
   - inmunología
-  - microbiología médica
-  - Científicos guatemaltecos
-  - COVID
-  - Peste bubónica
-  - Medicina
-  - salud humana
-  - vacunas
-  - Zoonosis
+  - ciencias médicas
+  - científicos guatemaltecos
+  - zoonosis
 subtitle: ''
 summary: ''
 authors: []
@@ -27,11 +22,17 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 Peste bubónica. Clamidia. Vacunas. Covid. Microscopía y ¡mucha inmunología! En este episodio hablamos con el biólogo y Dr. en microbiología e inmunología guatemalteco Rodrigo González. Conocemos cómo el gusto por la lectura y la historia han sido parte primordial de su interés por la ciencia y su ruta académica, llevándolo a estudiar desde la bacteria causante de la peste bubónica hasta las misteriosas conexiones que existen desde nuestra nariz al resto de nuestro cuerpo. Pero además de estudiar los misterios inmunológicos en nuestra nariz, Rodrigo nos recuerda también la importancia de ver más allá de nuestras propias narices para apoyar el desarrollo de la ciencia en nuestra región. ¿Qué tiene que ver nuestra nariz con el útero? ¿Vamos a tener que vacunarnos contra COVID de por vida? ¿Qué podría salir mal si nuestro sistema inmune es “demasiado” fuerte? ¡No te lo pierdas!
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/78lPVbecm6U2b8dFt2iISQ?utm_source=generator&theme=0" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/78lPVbecm6U2b8dFt2iISQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 - - - - -
@@ -50,11 +51,6 @@ Te dejamos aquí los enlaces prometidos en el episodio:
 
 - - - - -
 
-<font size = 1.5> <p style = "line-height:1"> 
-(Declaración de afiliados: En EpiSTEMas estamos afiliadas a Amazon y Blinkist, por lo que si tomas cualquier acción con los enlaces que te proveemos (i.e. realizas una compra), sin ningún costo adicional para tí, nosotras recibiremos una pequeña compensación y nos compraremos un cafecito la próxima vez que estemos preparando un nuevo episodio 😉) 
-</font> </p>
-
-
 Y si como a Rodrigo a tí también te gusta cultivar el hábito de la lectura, te dejamos aquí sus recomendaciones de libros:  
 
 
@@ -69,17 +65,6 @@ Y si como a Rodrigo a tí también te gusta cultivar el hábito de la lectura, t
 3) [Poemas y Sonetos](https://amzn.to/3plg41l) de Sor Juana Inés de la Cruz    
 
 
-<center>
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=1537218956&asins=1537218956&linkId=e10441e4b71a80d237d6edc00e664445&show_border=true&link_opens_in_new_window=true"></iframe>
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=9681612116&asins=9681612116&linkId=ccba1d5d6331b68bae71072b01ad5c16&show_border=true&link_opens_in_new_window=true"></iframe>
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=braeunerd04-20&language=en_US&marketplace=amazon&region=US&placement=1539713601&asins=1539713601&linkId=0568d344335122e86717808ce333ea4e&show_border=true&link_opens_in_new_window=true"></iframe>
-
-</center>
-
-¿Prefieres audiolibros? Obtén un 25% de descuento en tu suscripción anual a Blinkist [con este enlace](https://blinkist.o6eiov.net/c/2994553/1182216/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%2Fen%2Fnc%2Fpartners%2Fimpactaffiliate%2Finfluencer).  
-
 - - - - -
 
 Recuerda seguir a epiSTEMas en:
@@ -92,6 +77,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
-
-<a href="https://blinkist.o6eiov.net/c/2994553/815678/10732?subId1=EpiSTEMas&u=http%3A%2F%2Fwww.blinkist.com%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Dpaid%26utm_campaign%3D%7Birpid%7D%26utm_source%3DImpact%26utm_term%3D%7Biradname%7D%26utm_content%3D%7Bircid%7D" target="_top" id="815678"><img src="//a.impactradius-go.com/display-ad/10732-815678" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/815678/10732?subId1=EpiSTEMas" style="position:absolute;visibility:hidden;" border="0" />
-
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
