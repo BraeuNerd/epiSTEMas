@@ -14,12 +14,17 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2022-06-23T17:32:26+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
 ---
 
 ¿Qué haríamos sin mujeres ingenieras? Sin ellas no tendríamos bluetooth o wifi, no habríamos llegado al espacio, no existiría el puente de Brooklyn, los sistemas CCTV (*Closed-circuit television security*), las salidas de incendios, y muchas otras cosas más. Pero, no hay que ir al pasado ni salir de la región para conocer a mujeres profesionales de la Ingeniería que están resolviendo y construyendo el mundo en el que vivimos.  
@@ -134,3 +139,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

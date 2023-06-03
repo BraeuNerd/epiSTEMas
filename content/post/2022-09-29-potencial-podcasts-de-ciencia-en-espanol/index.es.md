@@ -7,20 +7,25 @@ categories:
   - EpiSTEMas Blog
 tags:
   - EpiSTEMas Blog
-  - Podcasts de ciencia
-  - Comunicación
-  - Divulgación
+  - Podcasts de ciencia en español
+  - comunicación científica
   - educación
 subtitle: ''
 summary: ''
 authors: []
 lastmod: '2022-09-29T13:17:29+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+    
 ---
 
 
@@ -67,3 +72,19 @@ Un ejemplo muy inspirador que conocimos en septiembre es la historia de [David M
 Pero, ¿y de qué nos sirve concer la ciencia que se hace en la región? La ciencia siempre ha jugado un papel importante en la historia de la humanidad. Además de formar profesionales en las STEM, es también importante el acercamiento de la ciencia a todos los sectores de la sociedad con el fin de contar con una sociedad bien informada capaz de tomar mejores decisiones (y además, aceptémoslo, ¡la ciencia es fascinante!).
 
 Los podcasts son una herramienta que podemos llevar a todos lados (sí, los puedes descargar para escucharlos luego sin internet). Desde tu hogar hasta escuelas remotas, ¡lleva y comparte estos geniales podcasts de ciencia a donde vayas! Como nos recuerdan nuestros colegas de Historias Cienciacionales, “la mejor forma de apoyarnos es escuchándonos”. Ver que nos escuchas semana tras semana nos motiva a continuar creando este contenido, recibir tus mensajes es siempre una linda recompensa, y con tu apoyo podemos seguir contribuyendo a la accesibilidad del conocimiento científico en español.
+
+
+
+- - - - -
+
+Recuerda seguir a epiSTEMas en:
+
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
+
+[Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
+
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
+
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
+
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
