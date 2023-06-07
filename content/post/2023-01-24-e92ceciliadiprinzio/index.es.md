@@ -7,10 +7,10 @@ slug: e92ceciliadiprinzio
 categories:
   - Biotecnología
 tags:
-  - Biotecnología
+  - biotecnología
   - biología
-  - comunicación
-  - Divulgación
+  - comunicación científica
+  - científicas argentinas
   - Mujeres en STEM
 subtitle: ''
 summary: ''
@@ -22,9 +22,13 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
-
-
 
 
 Biotecnología. Genes y peces. Libros y huertos. Y enseñar ciencia hasta en la sopa. Cuando escuchas biotecnología, ¿también piensas en modificar genes? ¿Qué si te decimos que no tiene por qué ser tan complicado, y que, de hecho, quizá tú ya has hecho algo de biotecnología sin saberlo?! No todo está en los detalles, y nuestra invitada de hoy nos recuerda lo importante de mantener en mente “la foto completa”. En este episodio hablamos con la biotecnóloga, divulgadora científica, autora, y Dra. en ciencias biológicas argentina Cecilia Di Prinzio. Ceci nos cuenta su cómo, cuándo, dónde y por qué - así como esos libros que leía de niña. Desde treparse a los árboles y hacer excavaciones, a estudiar genes, peces, ¡y comunicar ciencia! ¡No te lo pierdas!
@@ -60,7 +64,6 @@ Y encuentra a AcercaCiencia en: [Twitter](https://twitter.com/acercaciencia), [I
 
 <a href="https://brilliant.sjv.io/c/2994553/1003364/12858?subId1=epiSTEMas&u=http%3A%2F%2Fbrilliant.org%2Fimpactnetwork%2F%3Firclickid%3D%7Bclickid%7D%26utm_medium%3Daffiliates%26utm_campaign%3D%7Birpid%7D%26utm_source%3D%7Bmp_value1%7D%26utm_content%3D%7Btimestamp%7D_%7Biradtype%7D_%7Biradname%7D%26utm_term%3D%7Bmp_value2%7D" target="_top" id="1003364"><img src="//a.impactradius-go.com/display-ad/12858-1003364" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/2994553/1003364/12858?subId1=epiSTEMas" style="position:absolute;visibility:hidden;" border="1" />
 
-
 - - - - -
 
 Recuerda seguir a epiSTEMas en:
@@ -73,3 +76,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

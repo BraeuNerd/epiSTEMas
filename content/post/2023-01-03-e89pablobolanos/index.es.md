@@ -6,12 +6,12 @@ slug: e89pablobolanos
 categories:
   - Biología
 tags:
-  - Bioacústica
-  - Ecoacústica
+  - bioacústica
+  - ecoacústica
   - biología
-  - Ecología
-  - Científicos guatemaltecos
-  - Comportamiento Animal
+  - ecología
+  - científicos guatemaltecos
+  - comportamiento animal
 subtitle: ''
 summary: ''
 authors: []
@@ -22,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 
@@ -62,3 +68,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

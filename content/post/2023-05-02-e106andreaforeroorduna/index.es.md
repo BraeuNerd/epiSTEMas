@@ -8,6 +8,7 @@ categories:
 tags:
   - biología
   - etología
+  - neurociencias
   - comportamiento animal
   - Mujeres en STEM
   - cientificas colombianas

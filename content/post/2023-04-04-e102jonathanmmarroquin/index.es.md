@@ -7,10 +7,11 @@ categories:
   - Biología
 tags:
   - biología
-  - Biología molecular
-  - Genómica
-  - Seguridad alimentaria
+  - biología molecular
+  - genómica
+  - seguridad alimentaria
   - conservación
+  - científicos guatemaltecos
 subtitle: ''
 summary: ''
 authors: []
@@ -21,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 
@@ -34,7 +41,6 @@ El camino que empezó con la pregunta "¿por qué la clorofila es verde?"" ahora
 
 Encuentra a Jona en Twitter como @JonaSolsticio y en [LinkedIn](www.linkedin.com/in/jonathanmoralesmarroquin). 
 
-
 - - - - -
 
 Recuerda seguir a epiSTEMas en:
@@ -47,3 +53,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)

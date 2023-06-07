@@ -4,9 +4,11 @@ author: EpiSTEMas
 date: '2023-04-25'
 slug: e105segundoaniversariodeepistemas
 categories:
-  - Comunicación y divulgación
+  - Comunicación científica
 tags:
   - Episodio Especial
+  - comunicación científica
+  - Mujeres en STEM
 subtitle: ''
 summary: ''
 authors: []

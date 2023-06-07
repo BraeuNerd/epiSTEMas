@@ -43,6 +43,8 @@ Te invitamos (¡y súper recomendamos!) leer el artículo de Regina y Jonathan s
 
 Otros enlaces mencionados en el episodio y recomendaciones que nos comparten Regina y Jonathan:
 
+- - Conoce más sobre la plataforma [Bio-Dem aquí](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14256)
+
 - Lee el reportaje de Plaza Pública que ilustra muy bien el fenómeno de las puertas giratorias [aquí](https://www.plazapublica.com.gt/content/empresarios-con-poder-58-instancias-del-estado-en-las-que-las-camaras-tienen-voz-y-voto)
 
 

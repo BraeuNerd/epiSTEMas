@@ -6,10 +6,12 @@ slug: e103irisbaten
 categories:
   - Ingeniería
 tags:
-  - Ingeniería
-  - Ingeniería Química
+  - ingeniería
+  - ingeniería Química
+  - conocimiento indígena
   - Mujeres en STEM
-  - Científicas guatemaltecas
+  - Mujeres indígenas en STEM
+  - científicas guatemaltecas
 subtitle: ''
 summary: ''
 authors: []
@@ -20,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 
@@ -30,7 +38,7 @@ Ingeniería química. Diseño de color. Traducciones. Conocimientos ancestrales.
 - - - - -
 
 
-Encuentra a Iris en redes sociales como @IrisBaten 
+Encuentra a Iris en redes sociales como @IrisBaten: https://www.instagram.com/irisbaten/
 
 Y sigue el hashtag #MujeresIndigenasEnLasCienciasOWSD si quieres enterarte de opciones de voluntariado
 

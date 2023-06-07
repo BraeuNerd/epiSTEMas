@@ -6,11 +6,12 @@ slug: e101mayritaquemepena
 categories:
   - Ingeniería
 tags:
-  - Ingeniería Química
-  - Ingeniería
-  - Química
+  - ingeniería química
+  - ingeniería
+  - química
   - biofísica
-  - Científicas guatemaltecas
+  - científicas guatemaltecas
+  - Mujeres en STEM
 subtitle: ''
 summary: ''
 authors: []
@@ -21,6 +22,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+    
 ---
 
 
@@ -42,7 +49,6 @@ Y para terminar, nos encontramos un "test"" del síndrome del impostor de Clance
 
 - - - - -
 
-
 Recuerda seguir a epiSTEMas en:
 
 [Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
@@ -53,3 +59,4 @@ Recuerda seguir a epiSTEMas en:
 
 [LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
