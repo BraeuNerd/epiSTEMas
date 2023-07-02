@@ -55,7 +55,7 @@ Otros enlaces mencionados en el episodio y recomendaciones que nos comparten Reg
 ¡No te pierdas los próximos dos episodios de nuestra serie de STEM y Política este junio 2023!
 
 - Ep.112: [Fisica y Democracia](https://www.epistemas.com/post/e112fisicaydemocracia/)
-- Ep.113: Tecnologia y Democracia (¡próximamente!)
+- Ep.113: [Tecnología y Democracia](https://www.epistemas.com/post/e113tecnologiaydemocracia/) 
 
 - - - - -
 

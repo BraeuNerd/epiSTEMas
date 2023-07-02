@@ -20,6 +20,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
+design:
+  background:
+    color: "#000000"
+    text_color_light: true
+
 ---
 
 ¿Qué pasa si mezclamos ciencia…con política? La verdad, ciencia y política siempre han estado revueltas, aunque a veces parezcan dos mundos completamente diferentes. En esta mini-serie exploramos un poco más la relación entre STEM y política… ¡en un especial de 3 episodios! 
@@ -43,7 +49,7 @@ Encuentra la nota Física y Democracia de la que hablamos en este episodio [en F
 ¡No te pierdas los otros dos episodios de nuestra serie de STEM y Política este junio 2023!
 
 - Ep.111: [Biodiversidad y Democracia](https://www.epistemas.com/post/e111biodiversidadydemocracia/)
-- Ep.113: Tecnologia y Democracia (¡próximamente!)
+- Ep.113: [Tecnología y Democracia](https://www.epistemas.com/post/e113tecnologiaydemocracia/) 
 
 - - - - -
 

@@ -34,7 +34,7 @@ Con este tercer episodio, llegamos al final de nuestra miniserie de STEM y Polí
 
 Esta herramienta digital nace gracias a a un ejemplo de ejercicio democrático dentro de una comunidad de mujeres en tecnología en Guatemala. Esta herramienta es la página [votoinformadogt.com](https://votoinformadogt.com/), creada por el capítulo de Guatemala de la comunidad global [WomenWhoCode](https://www.womenwhocode.com/guatemala). En este último episodio especial de STEM y política, hablamos con la ingeniera ambiental guatemalteca, Nadia Chang, quien lideró el equipo que creó esta plataforma con el fin de brindarles a los y las guatemaltecas una herramienta para realizar un voto informado en las elecciones que se aproximan. Acompáñanos a conocer más sobre la motivación e historia detrás de esta plataforma, qué información puedes encontrar en ella, y conocer de este ejemplo imitable de cosas que podemos hacer desde nuestras comunidades. ¡No te lo pierdas!
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6lflzlFqQRKjaKiXojsQGV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SnXYhiPWPdMB9EOUb6IKM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - - - - -
 
