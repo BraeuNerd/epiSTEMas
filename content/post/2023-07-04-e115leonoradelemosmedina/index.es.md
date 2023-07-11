@@ -50,19 +50,15 @@ Y sigue al GIA en Facebook: https://www.facebook.com/GIAUCR
 y en Instagram: https://www.instagram.com/giaucr/
 
 - - - - -
+
 Recuerda seguir a epiSTEMas en:
 
-Instagram epiSTEMas:
-https://www.instagram.com/epistemas/
+[Instagram epiSTEMas](https://www.instagram.com/epistemas/)  
 
-Twitter epiSTEMas:
-https://twitter.com/epiSTEMas_Pod
+[Twitter epiSTEMas](https://twitter.com/epiSTEMas_Pod)
 
-Facebook epiSTEMas
-https://www.facebook.com/epiSTEMasPod
+[Facebook epiSTEMas](https://www.facebook.com/epiSTEMasPod) (¡te agradeceríamos si puedes dejarnos [una Opinión](https://www.facebook.com/epiSTEMasPod/reviews/) en nuestra página de Facebook para que más personas puedan encontrar nuestra página!)
 
-LinkedIn epiSTEMas:
-https://www.linkedin.com/company/epistemas-podcast/
+[LinkedIn epiSTEMas](https://www.linkedin.com/company/epistemas-podcast/)
 
-YouTube epiSTEMas: 
-https://www.youtube.com/@epistemaspodcast
+[YouTube epiSTEMas](https://www.youtube.com/@epistemaspodcast)
