@@ -38,11 +38,21 @@ Océanos. Polos. Datos satelitales. Espacio ¡y mucha exploración! En este cuar
 
 - - - - -
 
-Encuentra a Melania en:
-Instagram: https://www.instagram.com/ticapolar/
-Twitter: https://twitter.com/melania_guerra
-LinkedIn: https://www.linkedin.com/in/melania-guerra/
-Facebook: https://www.facebook.com/ticapolar
+Encuentra a Melania en:  
+
+
+Instagram: https://www.instagram.com/ticapolar/  
+
+
+Twitter: https://twitter.com/melania_guerra  
+
+
+LinkedIn: https://www.linkedin.com/in/melania-guerra/  
+
+
+Facebook: https://www.facebook.com/ticapolar  
+
+
 
 - - - - -
 
