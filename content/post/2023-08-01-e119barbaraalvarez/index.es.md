@@ -1,5 +1,5 @@
 ---
-title: 'E119 Bárbara Alvarez: química biológica y parasitología'
+title: 'E119 Bárbara Alvarez: química biológica y parásitos en la playa'
 author: EpiSTEMas
 date: '2023-08-01'
 slug: e119barbaraalvarez
