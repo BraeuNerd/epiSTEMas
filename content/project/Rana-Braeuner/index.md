@@ -17,7 +17,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: LinkedIn
-  url: https://www.linkedin.com/in/mar%C3%ADa-braeuner/
+  url: https://www.linkedin.com/in/maria-braeuner/
 summary: " 'El mundo debe poder conocer tu historia' "
 tags:
 - Biología
@@ -26,6 +26,6 @@ tags:
 title: María (Rana) Braeuner
 ---
 
-Auto-denominada "Nerd Profesional", fanática de los datos curiosos inútiles y de contárselos al mundo, María (la Rana) es apasionada por la comunicación científica y por explorar nuevas formas de comunicar ciencia. La Rana es Bióloga (BSc) guatemalteca con una MSc en Limnología Aplicada. 
+Auto-denominada "Nerd Profesional" e incurable generalista, la Rana es bióloga de formación, pero comunicadora científica de vocación. Entusiasta de los datos, diseño, y tecnología. Conservacionista por convicción.  
 
 ¡[Escucha su episodio aquí](https://epistemas.netlify.app/post/e3ranabraeuner/) para conocerla un poco más!
