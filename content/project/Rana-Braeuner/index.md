@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: LinkedIn
   url: https://www.linkedin.com/in/maria-braeuner/
-summary: " 'El mundo debe poder conocer tu historia' "
+summary: " 'La representación importa. El mundo debe poder conocer tu historia.' "
 tags:
 - Biología
 - Limnología

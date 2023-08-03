@@ -10,11 +10,11 @@ links:
   icon_pack: fab
   name: Sígueme
   url: https://www.instagram.com/purawira_/
-- icon: mug-hot
+- icon: linkedin
   icon_pack: fas
-  name: Sitio Web
-  url: http://purawira.com/
-summary: " 'La curiosidad y capacidad de ver el mundo con los ojos de una niña puede ayudarte a llegar lejos' "
+  name: LinkedIn
+  url: https://www.linkedin.com/in/katherinne-herrera-jordan-780904154/
+summary: " 'La curiosidad y capacidad de ver el mundo con los ojos de una niña puede ayudarte a llegar lejos.' "
 tags:
 - Bioquímica y Microbiología
 - Aracnología

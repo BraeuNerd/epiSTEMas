@@ -32,7 +32,7 @@ social:
   link: https://open.spotify.com/show/6lflzlFqQRKjaKiXojsQGV?si=2my21J1LTYCQiKxblOdgcg
 - icon: youtube
   icon_pack: fab
-  link: 'https://www.youtube.com/@epistemaspodcast/'
+  link: https://www.youtube.com/@epistemaspodcast/
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
