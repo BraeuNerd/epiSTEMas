@@ -1,7 +1,7 @@
 ---
 title: 'E121 Mayra Morataya: del desarrollo de software a la ingeniería de datos'
 author: EpiSTEMas
-date: '2023-08-16'
+date: '2023-08-15'
 slug: e121mayramorataya
 categories:
   - Ingeniería en Sistemas
@@ -14,7 +14,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2023-08-16T00:46:53+02:00'
+lastmod: '2023-08-15T20:46:53+02:00'
 featured: no
 image:
   caption: ''
